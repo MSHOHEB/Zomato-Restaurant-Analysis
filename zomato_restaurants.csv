@@ -1,0 +1,501 @@
+restaurant_id,name,city,area,cuisines,restaurant_type,price_range,avg_cost_for_two,rating,votes,online_order,table_booking,delivery,listed_in,payment_mode,established_year,seating_capacity,famous_dish
+1,The Grill,Nagpur,Dharampeth,"Pizza, Biryani",Cafe,Affordable (₹200-500),416,4.6,722,Yes,No,No,Dine-out,Card,2021,164,Biryani
+2,Little Bar,Jaipur,C Scheme,"Cafe, Mediterranean",Cafe,Premium (₹1000-2000),1980,4.2,2797,Yes,Yes,Yes,Delivery,Cash,2017,34,Burger
+3,Modern Restaurant,Chandigarh,Sector 43,"South Indian, Seafood",Bar & Restaurant,Budget (₹0-200),173,3.2,2972,No,Yes,No,Buffet,Card,2014,30,Sushi
+4,New Restaurant,Hyderabad,Jubilee Hills,"Street Food, Thai",Quick Bites,Moderate (₹500-1000),773,3.1,594,Yes,Yes,No,Dine-out,All Modes,2017,79,Tacos
+5,Grand Corner,Nagpur,Ramdaspeth,"South Indian, Pizza",Casual Dining,Moderate (₹500-1000),608,3.0,4656,No,No,Yes,Cafes,All Modes,2009,77,Paneer Tikka
+6,Little Lounge,Hyderabad,Madhapur,"Mediterranean, Bengali",Dhaba,Moderate (₹500-1000),821,3.7,395,Yes,Yes,No,Cafes,Cash,2017,107,Dal Makhani
+7,Classic Point,Ahmedabad,Bopal,"North Indian, Continental",Bar & Restaurant,Moderate (₹500-1000),997,3.5,3726,Yes,Yes,Yes,Pubs and bars,Cash,2014,173,Chole Bhature
+8,Royal Corner,Lucknow,Indira Nagar,"Mughlai, Bakery",Bar & Restaurant,Budget (₹0-200),139,2.8,2983,Yes,No,Yes,Delivery,Cash,2020,27,Noodles
+9,Royal Bar,Jaipur,Malviya Nagar,"Seafood, Bakery",Quick Bites,Moderate (₹500-1000),704,4.3,1657,No,Yes,No,Nightlife,All Modes,2021,125,Butter Chicken
+10,Spice Corner,Hyderabad,Gachibowli,"North Indian, Bengali",Bar & Restaurant,Affordable (₹200-500),234,4.2,492,Yes,Yes,Yes,Delivery,Card,2013,181,Momos
+11,Little Bites,Hyderabad,Hitech City,"Bakery, Bengali",Buffet,Affordable (₹200-500),416,2.7,3541,No,No,Yes,Delivery,Cash,2006,113,Tandoori
+12,Golden Dhaba,Pune,Hinjewadi,"Fast Food, Bakery",Buffet,Affordable (₹200-500),481,3.6,627,No,Yes,Yes,Pubs and bars,Cash,2007,70,Paneer Tikka
+13,Old Dhaba,Kolkata,Howrah,"Mexican, South Indian",Quick Bites,Premium (₹1000-2000),1980,4.7,3737,Yes,No,Yes,Desserts,All Modes,2009,58,Pizza
+14,Modern Grill,Hyderabad,Banjara Hills,"Cafe, South Indian",Food Court,Budget (₹0-200),120,3.7,4360,Yes,No,Yes,Desserts,Card,2007,162,Butter Chicken
+15,New Bistro,Nagpur,Ramdaspeth,"Bakery, Biryani",Bakery,Luxury (₹2000+),3068,3.5,4791,Yes,No,Yes,Dine-out,UPI,2012,77,Pasta
+16,Old Corner,Bangalore,Jayanagar,"Chinese, North Indian",Buffet,Luxury (₹2000+),3000,3.0,2182,Yes,Yes,No,Nightlife,UPI,2010,122,Sushi
+17,Modern Garden,Jaipur,Mansarovar,"Desserts, North Indian",Bar & Restaurant,Moderate (₹500-1000),579,2.8,886,Yes,Yes,Yes,Pubs and bars,Card,2015,62,Kebabs
+18,Classic House,Nagpur,Manewada,"Pizza, South Indian",Fine Dining,Premium (₹1000-2000),1759,3.3,1081,Yes,Yes,Yes,Pubs and bars,All Modes,2022,12,Butter Chicken
+19,Classic Kitchen,Delhi,Lajpat Nagar,"Thai, Bengali",Bar & Restaurant,Affordable (₹200-500),307,3.2,336,No,Yes,Yes,Delivery,UPI,2022,114,Dal Makhani
+20,Urban Bites,Surat,Athwa,"Biryani, Mughlai",Quick Bites,Premium (₹1000-2000),1163,4.7,3382,Yes,Yes,No,Delivery,All Modes,2006,130,Dosa
+21,Mumbai Restaurant,Hyderabad,Secunderabad,"Biryani, Pizza",Casual Dining,Affordable (₹200-500),460,4.6,2296,No,No,Yes,Nightlife,Cash,2008,76,Paneer Tikka
+22,The Bistro,Lucknow,Rajajipuram,"Bengali, Mediterranean",Food Court,Moderate (₹500-1000),522,2.8,4733,No,No,No,Delivery,Card,2016,120,Butter Chicken
+23,Modern Corner,Nagpur,Hingna,"Italian, Sushi",Bar & Restaurant,Moderate (₹500-1000),715,4.2,4551,No,No,Yes,Buffet,Card,2023,87,Pasta
+24,Delhi Restaurant,Jaipur,MI Road,"Fast Food, Street Food",Bakery,Luxury (₹2000+),2695,3.6,1760,Yes,No,Yes,Buffet,Cash,2014,141,Kebabs
+25,Spice Point,Nagpur,Hingna,"Biryani, Sushi",Cafe,Affordable (₹200-500),237,3.1,3902,Yes,Yes,Yes,Pubs and bars,Card,2017,136,Pasta
+26,Grand Grill,Hyderabad,Hitech City,"North Indian, Continental",Dhaba,Affordable (₹200-500),262,3.6,4576,Yes,No,No,Buffet,UPI,2019,166,Sushi
+27,Fresh Bites,Surat,Varachha,"Cafe, Street Food",Quick Bites,Premium (₹1000-2000),1641,4.5,2281,No,No,Yes,Nightlife,All Modes,2007,192,Pizza
+28,Mumbai Corner,Hyderabad,Madhapur,"Cafe, Chinese",Quick Bites,Affordable (₹200-500),412,2.9,1762,Yes,No,No,Cafes,All Modes,2006,62,Sushi
+29,Urban Garden,Kolkata,Dumdum,"Bakery, North Indian",Bakery,Premium (₹1000-2000),1752,3.2,3204,No,Yes,Yes,Desserts,Card,2020,66,Pizza
+30,The Hub,Kolkata,Howrah,"Sushi, Mediterranean",Quick Bites,Premium (₹1000-2000),1027,2.6,3237,Yes,No,No,Buffet,All Modes,2009,128,Paneer Tikka
+31,New Corner,Mumbai,Dadar,"Fast Food, Seafood",Food Court,Moderate (₹500-1000),883,3.1,680,No,No,Yes,Nightlife,Card,2007,176,Biryani
+32,Golden Dhaba,Indore,Vijay Nagar,"North Indian, Mughlai",Cafe,Affordable (₹200-500),331,3.9,1795,No,No,Yes,Pubs and bars,Cash,2010,89,Butter Chicken
+33,Urban Restaurant,Lucknow,Hazratganj,"Bakery, Mexican",Dhaba,Affordable (₹200-500),354,4.5,1999,Yes,No,No,Desserts,Cash,2023,20,Burger
+34,Grand Corner,Jaipur,Jagatpura,"Chinese, Cafe",Food Court,Budget (₹0-200),181,3.5,2977,No,No,Yes,Dine-out,UPI,2022,133,Momos
+35,Mumbai Point,Kolkata,Gariahat,"Biryani, Chinese",Delivery Only,Premium (₹1000-2000),1871,4.0,3114,Yes,No,No,Dine-out,All Modes,2011,0,Burger
+36,Mumbai Restaurant,Indore,Scheme 54,"Bengali, Pizza",Bar & Restaurant,Budget (₹0-200),171,4.2,4012,Yes,Yes,Yes,Buffet,All Modes,2019,14,Butter Chicken
+37,New Grill,Chennai,Velachery,"Biryani, Sushi",Bakery,Moderate (₹500-1000),859,3.3,4518,No,No,No,Nightlife,UPI,2012,40,Tandoori
+38,Spice Grill,Hyderabad,Kukatpally,"Cafe, Mughlai",Cafe,Affordable (₹200-500),344,3.9,4307,No,No,No,Nightlife,Card,2016,55,Pizza
+39,Delhi Kitchen,Mumbai,Juhu,"South Indian, Bakery",Delivery Only,Affordable (₹200-500),425,3.9,3855,No,Yes,Yes,Nightlife,All Modes,2008,0,Sushi
+40,Old Bistro,Delhi,Pitampura,"Bakery, South Indian",Quick Bites,Affordable (₹200-500),315,2.8,3419,Yes,Yes,Yes,Cafes,All Modes,2014,160,Pasta
+41,Modern Grill,Chennai,T Nagar,"Italian, Biryani",Cafe,Moderate (₹500-1000),709,2.9,624,Yes,Yes,Yes,Pubs and bars,All Modes,2014,18,Dosa
+42,Little Point,Chennai,Mylapore,"Street Food, Chinese",Cafe,Moderate (₹500-1000),536,3.8,1230,Yes,No,Yes,Desserts,UPI,2023,83,Momos
+43,Little Restaurant,Delhi,Vasant Kunj,"Mexican, Pizza",Bar & Restaurant,Luxury (₹2000+),2105,3.9,3549,No,No,Yes,Delivery,Card,2023,160,Biryani
+44,Modern Kitchen,Indore,Scheme 54,"Mughlai, Desserts",Bar & Restaurant,Premium (₹1000-2000),1418,3.5,4038,Yes,Yes,No,Nightlife,Cash,2010,94,Pasta
+45,Delhi Bar,Surat,Rander,"Mexican, Bakery",Casual Dining,Premium (₹1000-2000),1890,3.3,3321,Yes,No,Yes,Cafes,All Modes,2006,58,Chole Bhature
+46,Grand House,Pune,Aundh,"South Indian, Biryani",Delivery Only,Luxury (₹2000+),4493,4.6,3980,Yes,No,Yes,Desserts,Card,2010,0,Pizza
+47,Classic Hub,Jaipur,MI Road,"Chinese, Pizza",Fine Dining,Premium (₹1000-2000),1854,3.7,2400,Yes,No,Yes,Cafes,Card,2019,151,Paneer Tikka
+48,Urban Lounge,Kolkata,Ballygunge,"Desserts, Continental",Fine Dining,Moderate (₹500-1000),928,3.1,31,No,No,No,Buffet,All Modes,2009,124,Chole Bhature
+49,Mumbai Palace,Ahmedabad,Maninagar,"Cafe, Mexican",Buffet,Moderate (₹500-1000),522,3.9,1923,Yes,No,Yes,Buffet,All Modes,2017,179,Noodles
+50,Old Kitchen,Chandigarh,Sector 35,"Continental, Cafe",Bakery,Moderate (₹500-1000),709,3.8,3753,Yes,No,Yes,Dine-out,Cash,2020,77,Burger
+51,Grand Bistro,Lucknow,Chowk,"Sushi, Bakery",Dhaba,Moderate (₹500-1000),616,4.0,1933,No,No,Yes,Cafes,Cash,2008,123,Paneer Tikka
+52,Urban Kitchen,Surat,Piplod,"South Indian, Thai",Casual Dining,Moderate (₹500-1000),849,2.8,4361,Yes,No,Yes,Dine-out,Card,2007,166,Sushi
+53,Old Bites,Kolkata,Ballygunge,"Bakery, Continental",Cafe,Premium (₹1000-2000),1075,4.1,3821,Yes,No,Yes,Nightlife,UPI,2018,186,Pizza
+54,Golden Hub,Ahmedabad,Bopal,"Seafood, Italian",Cafe,Premium (₹1000-2000),1008,4.9,2428,Yes,No,Yes,Desserts,Cash,2020,83,Noodles
+55,Modern Garden,Indore,Bhanwarkuan,"Thai, Biryani",Cafe,Luxury (₹2000+),4647,4.3,1130,Yes,No,No,Delivery,UPI,2019,18,Dal Makhani
+56,Spice Bites,Pune,Baner,"Burger, Thai",Dhaba,Affordable (₹200-500),456,4.6,3007,Yes,Yes,No,Nightlife,All Modes,2014,96,Noodles
+57,Spice Cafe,Delhi,Vasant Kunj,"Biryani, Mediterranean",Bar & Restaurant,Moderate (₹500-1000),844,3.1,1022,Yes,No,Yes,Nightlife,All Modes,2016,37,Kebabs
+58,The Lounge,Hyderabad,Secunderabad,"Cafe, Sushi",Bakery,Affordable (₹200-500),409,4.7,2485,Yes,No,Yes,Delivery,UPI,2020,39,Butter Chicken
+59,New House,Hyderabad,Hitech City,"Thai, Bakery",Dhaba,Luxury (₹2000+),3145,2.7,4018,Yes,No,No,Delivery,UPI,2011,123,Momos
+60,Spice Bar,Hyderabad,Kukatpally,"Thai, Bakery",Food Court,Budget (₹0-200),111,4.8,3735,No,No,Yes,Delivery,Cash,2015,72,Paneer Tikka
+61,Spice Point,Indore,Bhanwarkuan,"Cafe, Fast Food",Bakery,Affordable (₹200-500),341,4.4,4892,Yes,No,Yes,Pubs and bars,UPI,2010,38,Kebabs
+62,Royal Kitchen,Chandigarh,Sector 17,"Thai, Biryani",Bakery,Moderate (₹500-1000),881,2.6,3458,Yes,Yes,Yes,Cafes,UPI,2021,161,Butter Chicken
+63,Modern Kitchen,Ahmedabad,Satellite,"Desserts, Burger",Buffet,Budget (₹0-200),162,3.5,894,Yes,No,Yes,Nightlife,Card,2007,42,Pizza
+64,New Lounge,Lucknow,Alambagh,"Desserts, Burger",Buffet,Luxury (₹2000+),2935,2.8,4526,No,Yes,No,Cafes,UPI,2019,112,Pasta
+65,Mumbai Hub,Surat,Vesu,"Sushi, Pizza",Food Court,Affordable (₹200-500),249,4.5,773,No,Yes,Yes,Desserts,Card,2022,25,Dal Makhani
+66,Grand Bistro,Jaipur,Tonk Road,"Mediterranean, Thai",Dhaba,Budget (₹0-200),164,3.3,4744,Yes,No,Yes,Dine-out,Cash,2016,152,Burger
+67,Modern Dhaba,Delhi,Dwarka,"Mediterranean, Bakery",Bakery,Luxury (₹2000+),3265,4.5,2200,Yes,No,No,Nightlife,UPI,2005,56,Sushi
+68,Spice Cafe,Bangalore,Electronic City,"North Indian, Italian",Bar & Restaurant,Affordable (₹200-500),366,3.3,3041,No,No,Yes,Pubs and bars,Cash,2006,49,Paneer Tikka
+69,Grand Bistro,Indore,Vijay Nagar,"Pizza, Seafood",Dhaba,Premium (₹1000-2000),1113,3.0,4207,No,No,Yes,Buffet,All Modes,2021,180,Pizza
+70,New Lounge,Mumbai,Colaba,"South Indian, North Indian",Cafe,Moderate (₹500-1000),882,3.2,992,Yes,Yes,Yes,Dine-out,All Modes,2022,190,Dosa
+71,Spice Hub,Jaipur,Tonk Road,"South Indian, Street Food",Casual Dining,Premium (₹1000-2000),1117,3.5,3323,Yes,No,No,Delivery,UPI,2010,168,Momos
+72,Spice Hub,Chandigarh,Sector 43,"Italian, Pizza",Dhaba,Luxury (₹2000+),2688,3.4,2551,No,No,Yes,Delivery,Cash,2021,140,Dosa
+73,Mumbai Grill,Kochi,Kaloor,"Continental, Pizza",Fine Dining,Affordable (₹200-500),452,3.9,627,Yes,Yes,Yes,Desserts,All Modes,2023,174,Kebabs
+74,Fresh Bar,Lucknow,Alambagh,"Sushi, Continental",Buffet,Budget (₹0-200),175,3.2,2260,No,No,No,Nightlife,All Modes,2019,19,Biryani
+75,Spice Bar,Pune,Viman Nagar,"Chinese, Cafe",Dhaba,Premium (₹1000-2000),1154,4.1,2643,Yes,No,No,Cafes,Cash,2015,192,Butter Chicken
+76,The Dhaba,Jaipur,Malviya Nagar,"Street Food, Seafood",Bar & Restaurant,Luxury (₹2000+),2214,4.7,3183,Yes,No,Yes,Desserts,UPI,2007,94,Butter Chicken
+77,Delhi Restaurant,Jaipur,Jagatpura,"Bengali, Continental",Food Court,Budget (₹0-200),116,4.8,3220,Yes,No,Yes,Buffet,UPI,2009,181,Tandoori
+78,Grand Bar,Chandigarh,Sector 22,"Mediterranean, Cafe",Food Court,Budget (₹0-200),198,4.8,2809,Yes,No,Yes,Dine-out,Cash,2014,35,Chole Bhature
+79,Grand Corner,Indore,Vijay Nagar,"Bengali, Continental",Bakery,Premium (₹1000-2000),1420,4.5,1366,Yes,Yes,Yes,Buffet,Card,2019,166,Pizza
+80,Golden Palace,Indore,Bhawarkuan,"Biryani, Sushi",Buffet,Affordable (₹200-500),344,4.9,3792,Yes,No,No,Pubs and bars,All Modes,2010,61,Noodles
+81,Fresh Restaurant,Lucknow,Aliganj,"South Indian, Desserts",Food Court,Luxury (₹2000+),4102,4.5,2345,Yes,No,No,Dine-out,All Modes,2007,66,Sushi
+82,Urban Kitchen,Ahmedabad,Maninagar,"Mediterranean, South Indian",Dhaba,Luxury (₹2000+),2405,4.9,3081,Yes,Yes,Yes,Desserts,UPI,2009,45,Biryani
+83,Little Point,Chennai,Tambaram,"Continental, Desserts",Buffet,Luxury (₹2000+),3180,3.1,1234,Yes,Yes,Yes,Dine-out,UPI,2008,22,Dosa
+84,Spice Bistro,Kolkata,Howrah,"Seafood, Bakery",Casual Dining,Luxury (₹2000+),3706,3.2,22,Yes,No,Yes,Dine-out,Cash,2021,102,Butter Chicken
+85,New Point,Jaipur,MI Road,"Seafood, South Indian",Dhaba,Moderate (₹500-1000),875,3.4,563,Yes,No,Yes,Delivery,UPI,2009,21,Burger
+86,Fresh Bar,Jaipur,Tonk Road,"Mughlai, Seafood",Buffet,Affordable (₹200-500),350,4.4,3759,Yes,Yes,No,Delivery,UPI,2014,141,Pasta
+87,Delhi Kitchen,Chandigarh,Mohali,"Fast Food, Sushi",Food Court,Budget (₹0-200),151,4.4,3589,Yes,No,Yes,Nightlife,Card,2020,187,Momos
+88,Big Bistro,Pune,Viman Nagar,"Mediterranean, Chinese",Dhaba,Luxury (₹2000+),4468,3.3,665,Yes,No,Yes,Buffet,All Modes,2010,186,Momos
+89,The Grill,Pune,Aundh,"Thai, Street Food",Delivery Only,Budget (₹0-200),195,3.5,4213,Yes,No,No,Desserts,All Modes,2006,0,Paneer Tikka
+90,Big Bar,Delhi,Saket,"Thai, Mexican",Dhaba,Luxury (₹2000+),4350,4.1,3048,Yes,No,Yes,Dine-out,UPI,2017,90,Kebabs
+91,Spice Kitchen,Chennai,Velachery,"Mughlai, Desserts",Bar & Restaurant,Premium (₹1000-2000),1938,4.2,1767,Yes,No,Yes,Dine-out,Cash,2009,28,Momos
+92,Spice Garden,Bangalore,Hebbal,"Sushi, Mexican",Fine Dining,Luxury (₹2000+),2823,4.2,1436,Yes,No,Yes,Desserts,Card,2012,136,Biryani
+93,Old Garden,Pune,Shivajinagar,"Cafe, Continental",Bakery,Budget (₹0-200),167,4.9,3931,Yes,No,Yes,Delivery,Card,2015,174,Butter Chicken
+94,Grand Palace,Ahmedabad,Prahlad Nagar,"Thai, Continental",Bar & Restaurant,Luxury (₹2000+),2674,3.7,463,Yes,Yes,Yes,Dine-out,UPI,2012,98,Chole Bhature
+95,Fresh Bistro,Kochi,Fort Kochi,"Pizza, Fast Food",Bar & Restaurant,Moderate (₹500-1000),803,4.0,775,Yes,No,Yes,Dine-out,Card,2015,154,Biryani
+96,Spice Kitchen,Chandigarh,Sector 17,"Bakery, Pizza",Cafe,Luxury (₹2000+),4805,2.6,4479,No,No,No,Cafes,UPI,2019,28,Tandoori
+97,Old Hub,Mumbai,Juhu,"Seafood, Street Food",Cafe,Moderate (₹500-1000),889,3.3,2839,Yes,No,No,Pubs and bars,Cash,2015,71,Momos
+98,Old Dhaba,Delhi,Dwarka,"Continental, Italian",Casual Dining,Moderate (₹500-1000),869,3.1,1318,No,No,Yes,Desserts,Card,2020,141,Momos
+99,Old Kitchen,Ahmedabad,Bopal,"Chinese, Mediterranean",Bar & Restaurant,Premium (₹1000-2000),1903,3.3,424,Yes,Yes,No,Buffet,All Modes,2014,147,Biryani
+100,New Cafe,Chandigarh,Sector 22,"Pizza, Mexican",Dhaba,Moderate (₹500-1000),647,3.9,1604,Yes,No,Yes,Pubs and bars,All Modes,2022,81,Sushi
+101,Royal Bistro,Lucknow,Gomti Nagar,"Mexican, Thai",Food Court,Luxury (₹2000+),2561,3.9,3298,Yes,Yes,Yes,Buffet,UPI,2020,142,Momos
+102,Mumbai Bites,Bangalore,Whitefield,"Bengali, Sushi",Quick Bites,Premium (₹1000-2000),1576,3.7,4185,Yes,No,Yes,Cafes,Cash,2016,94,Kebabs
+103,Modern Restaurant,Delhi,Pitampura,"North Indian, Desserts",Delivery Only,Luxury (₹2000+),4788,3.9,1406,Yes,No,Yes,Dine-out,Cash,2023,0,Tandoori
+104,The House,Delhi,Saket,"Sushi, Street Food",Quick Bites,Premium (₹1000-2000),1141,4.4,3873,Yes,No,No,Dine-out,UPI,2020,144,Pasta
+105,Old Bites,Pune,Baner,"Cafe, Sushi",Bar & Restaurant,Moderate (₹500-1000),652,3.0,2029,Yes,No,Yes,Desserts,UPI,2011,186,Tandoori
+106,Old Corner,Ahmedabad,Maninagar,"Cafe, Pizza",Delivery Only,Budget (₹0-200),137,4.8,1209,No,No,Yes,Delivery,UPI,2019,0,Kebabs
+107,Golden Dhaba,Chennai,Tambaram,"Cafe, Pizza",Bar & Restaurant,Moderate (₹500-1000),842,4.3,1970,Yes,Yes,No,Dine-out,Card,2006,35,Pasta
+108,Spice Bar,Pune,Aundh,"Continental, North Indian",Bar & Restaurant,Affordable (₹200-500),347,3.6,1643,No,No,Yes,Delivery,Cash,2023,69,Chole Bhature
+109,Urban Bites,Surat,Adajan,"Mughlai, Street Food",Quick Bites,Budget (₹0-200),104,4.7,2381,No,No,Yes,Delivery,UPI,2014,126,Kebabs
+110,Urban Cafe,Jaipur,Sanganer,"Desserts, Street Food",Delivery Only,Affordable (₹200-500),295,4.3,2117,Yes,No,Yes,Desserts,UPI,2023,0,Kebabs
+111,Royal Lounge,Indore,Bhanwarkuan,"Mexican, Street Food",Bar & Restaurant,Moderate (₹500-1000),979,2.7,1161,Yes,No,No,Nightlife,All Modes,2012,124,Noodles
+112,Delhi Lounge,Chennai,Nungambakkam,"Bakery, North Indian",Delivery Only,Moderate (₹500-1000),851,2.8,2523,Yes,Yes,No,Desserts,UPI,2008,0,Kebabs
+113,Mumbai Lounge,Kochi,Fort Kochi,"Biryani, Pizza",Quick Bites,Premium (₹1000-2000),1482,4.9,3070,Yes,No,No,Desserts,Card,2012,184,Noodles
+114,Classic House,Lucknow,Gomti Nagar,"Desserts, Thai",Fine Dining,Luxury (₹2000+),3343,4.7,1666,Yes,Yes,No,Desserts,All Modes,2008,184,Dosa
+115,Spice Bites,Surat,Rander,"Desserts, Street Food",Casual Dining,Premium (₹1000-2000),1826,3.6,482,Yes,No,Yes,Buffet,Cash,2017,75,Sushi
+116,Modern Bistro,Mumbai,Colaba,"South Indian, Street Food",Food Court,Budget (₹0-200),123,2.6,3359,Yes,Yes,Yes,Buffet,All Modes,2016,107,Momos
+117,New Bistro,Chandigarh,Panchkula,"Cafe, Continental",Food Court,Budget (₹0-200),100,3.8,1834,Yes,No,Yes,Buffet,All Modes,2022,107,Sushi
+118,Old Corner,Hyderabad,Gachibowli,"Continental, Burger",Cafe,Budget (₹0-200),130,4.0,138,Yes,No,Yes,Delivery,All Modes,2006,72,Tandoori
+119,Old Dhaba,Mumbai,Worli,"Cafe, Fast Food",Casual Dining,Affordable (₹200-500),364,3.9,4740,Yes,Yes,No,Buffet,Card,2018,86,Pizza
+120,Grand Bar,Mumbai,Juhu,"Mediterranean, Bakery",Buffet,Budget (₹0-200),140,3.4,4306,Yes,No,No,Cafes,Card,2022,131,Dosa
+121,Delhi Point,Chandigarh,Sector 8,"Continental, Seafood",Casual Dining,Luxury (₹2000+),4648,3.8,3191,No,No,No,Delivery,All Modes,2016,33,Chole Bhature
+122,The Restaurant,Surat,Citylight,"Mexican, South Indian",Fine Dining,Affordable (₹200-500),207,4.6,2737,Yes,No,Yes,Buffet,Cash,2020,72,Tandoori
+123,New Bites,Lucknow,Indira Nagar,"Biryani, Bakery",Food Court,Moderate (₹500-1000),762,4.1,2536,No,No,No,Cafes,Cash,2020,91,Tacos
+124,Mumbai Hub,Hyderabad,Kukatpally,"South Indian, Bengali",Cafe,Affordable (₹200-500),413,4.7,4754,Yes,No,No,Nightlife,Card,2017,155,Sushi
+125,Classic Bar,Hyderabad,Secunderabad,"Sushi, Pizza",Buffet,Premium (₹1000-2000),1188,4.4,1396,No,Yes,No,Buffet,Cash,2021,18,Sushi
+126,Fresh Bar,Chandigarh,Sector 22,"South Indian, North Indian",Dhaba,Affordable (₹200-500),433,2.9,1801,Yes,Yes,No,Buffet,All Modes,2020,14,Biryani
+127,The Kitchen,Jaipur,Jagatpura,"Desserts, Pizza",Bar & Restaurant,Moderate (₹500-1000),768,4.1,1478,Yes,No,No,Dine-out,UPI,2016,78,Noodles
+128,Mumbai Hub,Kolkata,Salt Lake,"Street Food, Bengali",Cafe,Affordable (₹200-500),407,4.1,269,Yes,No,Yes,Cafes,Cash,2005,189,Paneer Tikka
+129,Fresh Hub,Delhi,Vasant Kunj,"Sushi, Bengali",Fine Dining,Luxury (₹2000+),2304,4.7,4653,Yes,Yes,Yes,Buffet,UPI,2022,154,Kebabs
+130,Urban Point,Mumbai,Juhu,"Sushi, North Indian",Cafe,Luxury (₹2000+),3593,4.7,2461,Yes,No,Yes,Buffet,UPI,2017,199,Paneer Tikka
+131,Classic Grill,Indore,Palasia,"Thai, South Indian",Fine Dining,Premium (₹1000-2000),1649,4.0,4889,Yes,Yes,Yes,Desserts,All Modes,2020,68,Burger
+132,New Cafe,Jaipur,Jagatpura,"Bakery, Mexican",Fine Dining,Luxury (₹2000+),4596,2.7,2205,Yes,Yes,No,Dine-out,All Modes,2015,102,Butter Chicken
+133,Delhi House,Delhi,Connaught Place,"Thai, Pizza",Fine Dining,Affordable (₹200-500),408,3.6,4554,Yes,Yes,Yes,Nightlife,Cash,2015,108,Biryani
+134,New Garden,Chennai,Porur,"Chinese, Bakery",Cafe,Luxury (₹2000+),2259,2.9,2212,Yes,No,Yes,Dine-out,All Modes,2013,117,Pizza
+135,Mumbai Restaurant,Ahmedabad,SG Highway,"Biryani, Desserts",Bakery,Luxury (₹2000+),3556,2.8,65,Yes,No,Yes,Desserts,UPI,2019,95,Pasta
+136,Delhi Corner,Chandigarh,Sector 35,"Bengali, Fast Food",Buffet,Moderate (₹500-1000),666,3.2,4032,Yes,No,Yes,Desserts,All Modes,2016,39,Tacos
+137,Modern Palace,Lucknow,Indira Nagar,"Mughlai, Bakery",Casual Dining,Premium (₹1000-2000),1648,4.5,576,Yes,No,Yes,Dine-out,UPI,2009,193,Pasta
+138,Spice House,Indore,Rajendra Nagar,"Bengali, Seafood",Bakery,Premium (₹1000-2000),1653,4.4,2955,No,No,Yes,Delivery,Card,2016,52,Kebabs
+139,Modern Bar,Lucknow,Hazratganj,"Mexican, Sushi",Dhaba,Budget (₹0-200),171,3.0,4259,Yes,Yes,Yes,Cafes,UPI,2017,128,Noodles
+140,Mumbai Kitchen,Nagpur,Sadar,"Seafood, Italian",Delivery Only,Premium (₹1000-2000),1211,2.8,2565,Yes,Yes,No,Cafes,UPI,2020,0,Butter Chicken
+141,Mumbai Bistro,Ahmedabad,Prahlad Nagar,"Burger, South Indian",Fine Dining,Budget (₹0-200),194,4.1,1356,Yes,No,Yes,Dine-out,UPI,2022,119,Momos
+142,Grand Cafe,Hyderabad,Ameerpet,"Mughlai, Street Food",Dhaba,Budget (₹0-200),190,3.5,46,Yes,No,No,Desserts,Cash,2023,36,Noodles
+143,Mumbai Corner,Chandigarh,Sector 35,"Fast Food, Seafood",Fine Dining,Moderate (₹500-1000),800,3.3,3193,No,No,No,Nightlife,All Modes,2010,182,Tandoori
+144,Urban Lounge,Indore,Scheme 54,"Bakery, Chinese",Quick Bites,Moderate (₹500-1000),761,2.8,3068,Yes,Yes,Yes,Pubs and bars,Card,2023,108,Pasta
+145,Grand Palace,Bangalore,Hebbal,"Mughlai, Bakery",Quick Bites,Premium (₹1000-2000),1367,3.3,3704,Yes,Yes,Yes,Cafes,Card,2011,108,Chole Bhature
+146,New Bar,Jaipur,Sanganer,"Seafood, Mediterranean",Buffet,Premium (₹1000-2000),1230,2.6,1816,Yes,Yes,No,Nightlife,Card,2019,154,Tandoori
+147,Classic Palace,Indore,Bhawarkuan,"Italian, Bengali",Fine Dining,Moderate (₹500-1000),717,4.3,3625,Yes,No,Yes,Desserts,Card,2014,18,Momos
+148,Fresh Point,Chennai,Nungambakkam,"Chinese, Seafood",Fine Dining,Affordable (₹200-500),271,4.2,3517,Yes,No,No,Desserts,Cash,2023,99,Chole Bhature
+149,Mumbai Grill,Chennai,Adyar,"Burger, Sushi",Bakery,Moderate (₹500-1000),859,4.7,2281,Yes,Yes,Yes,Dine-out,Card,2015,73,Noodles
+150,Old Cafe,Chandigarh,Panchkula,"Bakery, Pizza",Dhaba,Premium (₹1000-2000),1284,4.4,772,No,Yes,No,Nightlife,All Modes,2020,93,Dal Makhani
+151,Little House,Mumbai,Andheri,"Thai, Chinese",Bar & Restaurant,Premium (₹1000-2000),1591,3.7,2654,Yes,No,Yes,Pubs and bars,All Modes,2015,184,Noodles
+152,Spice Bar,Mumbai,Bandra,"Street Food, North Indian",Fine Dining,Affordable (₹200-500),267,4.9,3514,No,No,Yes,Dine-out,UPI,2007,177,Burger
+153,Mumbai Bar,Chennai,Anna Nagar,"Mughlai, South Indian",Dhaba,Moderate (₹500-1000),744,2.7,789,Yes,No,No,Pubs and bars,Card,2021,184,Momos
+154,Little Corner,Mumbai,Bandra,"Italian, Street Food",Quick Bites,Premium (₹1000-2000),1902,2.7,849,Yes,Yes,Yes,Dine-out,All Modes,2009,174,Kebabs
+155,Classic Lounge,Bangalore,Indiranagar,"North Indian, Fast Food",Buffet,Moderate (₹500-1000),940,2.9,3382,Yes,No,No,Delivery,Card,2008,160,Tandoori
+156,New Corner,Kolkata,Behala,"Continental, Pizza",Delivery Only,Budget (₹0-200),136,3.9,4987,Yes,No,No,Nightlife,Card,2021,0,Dal Makhani
+157,Little Hub,Jaipur,C Scheme,"Burger, South Indian",Cafe,Premium (₹1000-2000),1012,3.7,4875,No,Yes,Yes,Nightlife,Card,2017,155,Pasta
+158,Big House,Pune,Baner,"Chinese, North Indian",Bakery,Budget (₹0-200),150,2.6,505,Yes,No,Yes,Pubs and bars,All Modes,2018,189,Pasta
+159,Delhi Bistro,Delhi,Lajpat Nagar,"Burger, Chinese",Bar & Restaurant,Affordable (₹200-500),423,3.4,551,Yes,No,Yes,Delivery,Card,2007,121,Butter Chicken
+160,Delhi Bar,Ahmedabad,CG Road,"Mughlai, Italian",Casual Dining,Affordable (₹200-500),332,4.8,4294,Yes,Yes,Yes,Buffet,UPI,2008,17,Burger
+161,Delhi Palace,Indore,Rajendra Nagar,"Chinese, Burger",Bakery,Budget (₹0-200),172,3.4,4102,No,No,No,Desserts,Cash,2023,182,Tandoori
+162,Little Palace,Delhi,Saket,"North Indian, Chinese",Casual Dining,Affordable (₹200-500),218,3.4,1239,Yes,No,Yes,Buffet,All Modes,2012,92,Dosa
+163,Delhi Point,Kolkata,Behala,"Chinese, Bengali",Food Court,Budget (₹0-200),151,4.4,386,Yes,Yes,Yes,Desserts,UPI,2015,32,Chole Bhature
+164,Mumbai Dhaba,Ahmedabad,CG Road,"Burger, Bengali",Delivery Only,Luxury (₹2000+),4238,3.9,4051,Yes,No,Yes,Desserts,Card,2009,0,Biryani
+165,The Dhaba,Kochi,Thrippunithura,"Cafe, Thai",Casual Dining,Moderate (₹500-1000),771,4.5,2529,Yes,No,Yes,Cafes,Cash,2009,192,Pizza
+166,Urban Dhaba,Delhi,Connaught Place,"Desserts, Mediterranean",Food Court,Premium (₹1000-2000),1445,3.7,3240,Yes,No,Yes,Dine-out,Card,2014,76,Sushi
+167,Little Point,Pune,Hadapsar,"Sushi, Thai",Buffet,Moderate (₹500-1000),554,2.8,4799,Yes,Yes,Yes,Cafes,UPI,2018,40,Chole Bhature
+168,Old Restaurant,Pune,Kothrud,"Street Food, Pizza",Fine Dining,Budget (₹0-200),105,4.5,4952,Yes,No,Yes,Dine-out,Cash,2012,101,Pasta
+169,Grand Restaurant,Jaipur,MI Road,"Pizza, Mughlai",Casual Dining,Premium (₹1000-2000),1812,3.8,785,No,No,No,Delivery,Cash,2006,66,Paneer Tikka
+170,Mumbai Bar,Hyderabad,Ameerpet,"Chinese, Bengali",Bakery,Moderate (₹500-1000),963,3.0,3642,Yes,Yes,Yes,Delivery,Cash,2019,22,Paneer Tikka
+171,Fresh Grill,Kochi,Thrippunithura,"Mexican, Desserts",Casual Dining,Premium (₹1000-2000),1904,3.0,1543,No,Yes,Yes,Delivery,Card,2014,137,Pasta
+172,The Bistro,Kochi,Aluva,"Pizza, Mediterranean",Quick Bites,Premium (₹1000-2000),1730,3.1,4463,Yes,No,No,Cafes,All Modes,2016,154,Chole Bhature
+173,Delhi Cafe,Pune,Hadapsar,"North Indian, Thai",Bakery,Affordable (₹200-500),383,4.4,3874,Yes,No,Yes,Dine-out,Cash,2012,178,Dosa
+174,Big Dhaba,Chennai,T Nagar,"Bakery, Mexican",Food Court,Affordable (₹200-500),214,3.3,2949,Yes,Yes,No,Pubs and bars,Card,2023,58,Sushi
+175,Classic Restaurant,Indore,Bhawarkuan,"Mughlai, Desserts",Casual Dining,Budget (₹0-200),161,3.0,4322,Yes,Yes,No,Dine-out,Card,2015,193,Paneer Tikka
+176,The Kitchen,Kochi,Kaloor,"Continental, Bengali",Quick Bites,Budget (₹0-200),175,4.2,3250,Yes,Yes,Yes,Dine-out,Card,2018,173,Momos
+177,Royal Grill,Nagpur,Hingna,"Cafe, Thai",Cafe,Luxury (₹2000+),4875,4.3,2422,Yes,No,Yes,Pubs and bars,All Modes,2023,18,Paneer Tikka
+178,Urban Garden,Lucknow,Alambagh,"Bengali, Biryani",Bakery,Budget (₹0-200),144,4.3,1959,No,Yes,Yes,Desserts,UPI,2019,12,Pizza
+179,Little Bistro,Hyderabad,Gachibowli,"Thai, Pizza",Fine Dining,Budget (₹0-200),152,4.3,1372,Yes,No,Yes,Pubs and bars,All Modes,2008,132,Noodles
+180,Royal House,Chandigarh,Sector 8,"Chinese, South Indian",Delivery Only,Budget (₹0-200),148,2.7,1403,Yes,No,Yes,Delivery,UPI,2020,0,Tandoori
+181,Grand Cafe,Mumbai,Worli,"Bengali, Mediterranean",Quick Bites,Budget (₹0-200),189,4.8,3362,Yes,No,Yes,Pubs and bars,UPI,2014,86,Dosa
+182,New Lounge,Delhi,Connaught Place,"Cafe, Seafood",Quick Bites,Budget (₹0-200),161,2.7,4926,Yes,Yes,Yes,Dine-out,UPI,2007,131,Sushi
+183,Big Hub,Delhi,Dwarka,"Seafood, Desserts",Delivery Only,Budget (₹0-200),123,4.6,3036,No,Yes,Yes,Cafes,UPI,2012,0,Sushi
+184,Royal Garden,Chennai,T Nagar,"Italian, Chinese",Food Court,Luxury (₹2000+),4814,3.8,3181,No,No,Yes,Desserts,All Modes,2023,70,Momos
+185,New Bites,Chennai,Anna Nagar,"South Indian, Cafe",Bakery,Luxury (₹2000+),3734,2.9,1379,Yes,Yes,Yes,Delivery,All Modes,2011,170,Paneer Tikka
+186,Mumbai Bites,Chandigarh,Sector 9,"Chinese, Italian",Dhaba,Luxury (₹2000+),4552,4.6,4267,No,No,Yes,Pubs and bars,All Modes,2008,116,Paneer Tikka
+187,Urban Bistro,Bangalore,Indiranagar,"Bakery, Italian",Delivery Only,Luxury (₹2000+),3128,3.4,3987,Yes,No,Yes,Cafes,Card,2017,0,Biryani
+188,Little Dhaba,Kolkata,Behala,"South Indian, Desserts",Delivery Only,Moderate (₹500-1000),997,3.2,4037,Yes,No,Yes,Dine-out,UPI,2019,0,Noodles
+189,Delhi Grill,Chandigarh,Sector 43,"Mediterranean, Chinese",Cafe,Premium (₹1000-2000),1810,3.7,4241,Yes,No,No,Delivery,UPI,2021,113,Paneer Tikka
+190,Royal Dhaba,Indore,Vijay Nagar,"Fast Food, South Indian",Cafe,Budget (₹0-200),147,4.2,2254,No,Yes,Yes,Delivery,Cash,2012,105,Momos
+191,Royal Point,Lucknow,Aminabad,"Seafood, Bengali",Bar & Restaurant,Moderate (₹500-1000),697,4.3,750,Yes,Yes,Yes,Desserts,Card,2012,175,Dosa
+192,Delhi Bar,Nagpur,Ramdaspeth,"Mediterranean, Cafe",Casual Dining,Budget (₹0-200),128,2.9,79,No,Yes,No,Buffet,UPI,2018,106,Sushi
+193,Delhi Dhaba,Pune,Aundh,"Street Food, Burger",Bar & Restaurant,Luxury (₹2000+),2442,2.5,3075,No,No,Yes,Cafes,Cash,2015,80,Kebabs
+194,Delhi Bar,Pune,Viman Nagar,"Burger, Fast Food",Quick Bites,Luxury (₹2000+),4684,3.5,2628,Yes,Yes,No,Cafes,UPI,2013,117,Pasta
+195,Modern Grill,Kolkata,Park Street,"Bakery, Fast Food",Food Court,Affordable (₹200-500),485,3.7,1402,No,No,Yes,Cafes,Card,2013,195,Noodles
+196,Grand Bites,Jaipur,Malviya Nagar,"Sushi, Chinese",Cafe,Moderate (₹500-1000),799,3.5,2724,Yes,No,Yes,Desserts,Cash,2020,23,Sushi
+197,Old Bites,Nagpur,Dharampeth,"Fast Food, Cafe",Fine Dining,Premium (₹1000-2000),1419,4.6,1245,Yes,No,Yes,Cafes,Card,2015,193,Paneer Tikka
+198,Old Corner,Indore,Palasia,"Mughlai, Thai",Casual Dining,Budget (₹0-200),173,4.3,1391,No,No,Yes,Dine-out,All Modes,2018,113,Pasta
+199,The Kitchen,Ahmedabad,Vastrapur,"Cafe, Fast Food",Food Court,Budget (₹0-200),180,2.5,43,Yes,No,Yes,Nightlife,Card,2008,108,Chole Bhature
+200,Royal Bistro,Lucknow,Rajajipuram,"South Indian, Sushi",Delivery Only,Premium (₹1000-2000),1192,4.9,2817,Yes,No,No,Desserts,All Modes,2005,0,Dosa
+201,Golden Grill,Hyderabad,Hitech City,"North Indian, Bengali",Bar & Restaurant,Affordable (₹200-500),330,4.1,316,Yes,No,No,Delivery,Cash,2008,177,Sushi
+202,Little Bistro,Mumbai,Bandra,"Mediterranean, Seafood",Dhaba,Budget (₹0-200),138,2.9,86,Yes,No,No,Pubs and bars,UPI,2009,117,Sushi
+203,Classic Grill,Kochi,Edapally,"Bengali, Italian",Delivery Only,Budget (₹0-200),166,4.0,2164,Yes,No,Yes,Nightlife,Card,2006,0,Chole Bhature
+204,Little Bites,Ahmedabad,Satellite,"Seafood, Sushi",Cafe,Budget (₹0-200),185,4.7,4713,Yes,No,Yes,Desserts,Cash,2008,75,Kebabs
+205,Delhi Restaurant,Hyderabad,Secunderabad,"Street Food, South Indian",Fine Dining,Affordable (₹200-500),259,4.4,2571,Yes,No,Yes,Delivery,Card,2010,94,Burger
+206,Modern Restaurant,Kochi,Aluva,"Chinese, Mexican",Food Court,Affordable (₹200-500),444,4.8,2236,Yes,No,Yes,Desserts,Card,2008,43,Tandoori
+207,Fresh Cafe,Surat,Adajan,"Italian, Street Food",Bakery,Premium (₹1000-2000),1700,3.4,2947,No,Yes,No,Dine-out,All Modes,2020,38,Tacos
+208,The Bistro,Kolkata,Howrah,"Pizza, Thai",Casual Dining,Luxury (₹2000+),4718,3.7,790,Yes,No,Yes,Buffet,All Modes,2009,152,Tacos
+209,The Bar,Lucknow,Hazratganj,"Mughlai, Cafe",Buffet,Premium (₹1000-2000),1228,3.3,2720,Yes,Yes,Yes,Buffet,All Modes,2017,70,Butter Chicken
+210,Big Lounge,Ahmedabad,Prahlad Nagar,"Street Food, Chinese",Buffet,Premium (₹1000-2000),1036,4.3,155,Yes,Yes,Yes,Pubs and bars,Cash,2007,164,Dal Makhani
+211,Urban Palace,Nagpur,Manewada,"Cafe, Fast Food",Buffet,Moderate (₹500-1000),866,4.5,2729,Yes,Yes,Yes,Buffet,All Modes,2008,34,Noodles
+212,The Corner,Nagpur,Ramdaspeth,"Thai, Burger",Bar & Restaurant,Luxury (₹2000+),4955,2.6,1354,Yes,No,Yes,Cafes,Cash,2013,166,Dosa
+213,Urban Point,Hyderabad,Jubilee Hills,"Mexican, Fast Food",Buffet,Affordable (₹200-500),430,2.6,4833,Yes,Yes,Yes,Pubs and bars,Card,2020,11,Chole Bhature
+214,Classic Bites,Surat,Adajan,"Mediterranean, Bengali",Buffet,Luxury (₹2000+),4482,2.9,1061,Yes,No,No,Nightlife,All Modes,2018,165,Tacos
+215,Delhi Hub,Surat,Citylight,"Sushi, Burger",Buffet,Affordable (₹200-500),480,4.2,4206,Yes,No,No,Buffet,Card,2011,63,Dal Makhani
+216,Grand Corner,Surat,Piplod,"Continental, Fast Food",Bar & Restaurant,Luxury (₹2000+),4732,4.3,4616,Yes,No,Yes,Buffet,All Modes,2022,83,Tacos
+217,Big Kitchen,Chandigarh,Panchkula,"Desserts, Italian",Casual Dining,Premium (₹1000-2000),1699,2.6,2197,Yes,Yes,No,Dine-out,Cash,2014,62,Noodles
+218,Mumbai Point,Jaipur,MI Road,"Street Food, Italian",Bakery,Luxury (₹2000+),2192,3.8,1956,Yes,No,No,Cafes,All Modes,2018,185,Burger
+219,The Grill,Jaipur,MI Road,"Pizza, Fast Food",Bakery,Premium (₹1000-2000),1617,4.2,3022,Yes,No,No,Desserts,Card,2014,124,Paneer Tikka
+220,Royal Cafe,Nagpur,Dharampeth,"Desserts, Italian",Dhaba,Budget (₹0-200),174,3.1,1328,No,No,No,Buffet,Card,2006,49,Tacos
+221,Big Bites,Pune,Koregaon Park,"Bengali, Burger",Buffet,Luxury (₹2000+),4069,3.3,1811,Yes,Yes,No,Dine-out,All Modes,2022,147,Pasta
+222,Golden Bites,Delhi,Rohini,"Fast Food, Thai",Food Court,Moderate (₹500-1000),558,3.8,4608,Yes,Yes,No,Cafes,Card,2012,20,Kebabs
+223,New Bites,Kochi,Kaloor,"Italian, Mediterranean",Delivery Only,Luxury (₹2000+),2179,4.5,3081,Yes,Yes,No,Nightlife,Card,2015,0,Chole Bhature
+224,Royal Garden,Delhi,Karol Bagh,"Cafe, Bakery",Casual Dining,Budget (₹0-200),113,4.4,3485,Yes,No,No,Buffet,All Modes,2007,185,Paneer Tikka
+225,Little Corner,Mumbai,Borivali,"South Indian, Italian",Fine Dining,Budget (₹0-200),133,2.7,1874,Yes,No,No,Cafes,All Modes,2015,14,Pasta
+226,Classic Kitchen,Nagpur,Dharampeth,"Bengali, Chinese",Bakery,Budget (₹0-200),177,2.8,2478,Yes,No,No,Cafes,All Modes,2005,131,Paneer Tikka
+227,Royal Grill,Jaipur,C Scheme,"Mexican, Bakery",Delivery Only,Affordable (₹200-500),484,4.1,101,Yes,No,No,Delivery,All Modes,2022,0,Chole Bhature
+228,Golden Grill,Delhi,Dwarka,"Thai, Fast Food",Dhaba,Luxury (₹2000+),4323,3.0,2080,Yes,Yes,Yes,Desserts,Cash,2022,128,Kebabs
+229,Delhi Bar,Jaipur,Vaishali Nagar,"Chinese, Burger",Fine Dining,Affordable (₹200-500),345,2.8,1931,No,No,Yes,Nightlife,All Modes,2019,94,Dal Makhani
+230,Little Lounge,Nagpur,Manewada,"Continental, Bengali",Bakery,Moderate (₹500-1000),864,2.5,2026,Yes,No,Yes,Cafes,UPI,2016,44,Kebabs
+231,Urban House,Surat,Katargam,"Street Food, Seafood",Food Court,Moderate (₹500-1000),939,2.9,4979,No,No,Yes,Pubs and bars,Card,2013,197,Tacos
+232,Little Bistro,Nagpur,Dharampeth,"North Indian, Cafe",Casual Dining,Luxury (₹2000+),3933,4.7,4528,No,No,Yes,Buffet,Card,2016,110,Dosa
+233,Royal House,Kochi,Fort Kochi,"Desserts, Cafe",Fine Dining,Premium (₹1000-2000),1456,4.1,1368,Yes,No,Yes,Dine-out,Card,2020,101,Biryani
+234,Golden Bistro,Hyderabad,Secunderabad,"Pizza, Mexican",Cafe,Budget (₹0-200),105,3.4,3734,Yes,No,Yes,Buffet,UPI,2013,158,Chole Bhature
+235,New Bar,Lucknow,Aliganj,"Mexican, Thai",Bakery,Budget (₹0-200),144,3.7,2900,Yes,No,Yes,Delivery,Card,2019,52,Dosa
+236,Golden Cafe,Delhi,Dwarka,"Mughlai, Fast Food",Food Court,Luxury (₹2000+),3961,3.5,2715,Yes,No,Yes,Cafes,Card,2023,51,Kebabs
+237,The Dhaba,Chandigarh,Panchkula,"South Indian, Mughlai",Bakery,Luxury (₹2000+),2737,3.7,4698,Yes,Yes,No,Pubs and bars,All Modes,2023,173,Biryani
+238,Spice Dhaba,Kochi,Fort Kochi,"Street Food, Desserts",Buffet,Affordable (₹200-500),293,2.8,4783,Yes,No,No,Nightlife,Card,2015,126,Dal Makhani
+239,Golden Hub,Lucknow,Gomti Nagar,"Mexican, Continental",Fine Dining,Budget (₹0-200),177,4.1,1235,Yes,No,No,Pubs and bars,Cash,2022,138,Noodles
+240,Old Bar,Delhi,Karol Bagh,"Continental, Bakery",Casual Dining,Premium (₹1000-2000),1787,4.2,3524,No,No,Yes,Nightlife,Cash,2018,44,Pizza
+241,Urban Point,Ahmedabad,Satellite,"Chinese, Sushi",Bakery,Luxury (₹2000+),2029,2.5,68,No,No,Yes,Cafes,Card,2015,114,Burger
+242,New Bar,Delhi,Lajpat Nagar,"Bakery, Pizza",Delivery Only,Luxury (₹2000+),4283,4.0,3265,No,No,Yes,Cafes,Card,2016,0,Chole Bhature
+243,Delhi Restaurant,Jaipur,Sanganer,"Bakery, Thai",Dhaba,Affordable (₹200-500),309,3.6,1335,Yes,No,Yes,Desserts,Cash,2010,109,Kebabs
+244,Fresh Cafe,Mumbai,Andheri,"Seafood, Mediterranean",Fine Dining,Budget (₹0-200),192,2.7,319,Yes,Yes,Yes,Buffet,UPI,2006,54,Kebabs
+245,The Dhaba,Ahmedabad,Prahlad Nagar,"Desserts, Burger",Cafe,Budget (₹0-200),130,4.1,2956,Yes,No,Yes,Nightlife,All Modes,2016,181,Pasta
+246,Classic Kitchen,Kolkata,Ballygunge,"Chinese, Italian",Bar & Restaurant,Moderate (₹500-1000),794,3.0,1603,Yes,No,Yes,Dine-out,All Modes,2021,37,Chole Bhature
+247,Mumbai Bistro,Delhi,Dwarka,"Desserts, Pizza",Bar & Restaurant,Luxury (₹2000+),3879,4.8,4623,Yes,No,Yes,Buffet,All Modes,2023,17,Momos
+248,Spice Hub,Delhi,Dwarka,"Biryani, Pizza",Food Court,Premium (₹1000-2000),1408,2.5,2167,Yes,No,No,Buffet,UPI,2007,151,Tacos
+249,Mumbai Corner,Bangalore,Hebbal,"Fast Food, Bengali",Delivery Only,Affordable (₹200-500),305,3.0,1992,Yes,No,No,Desserts,UPI,2009,0,Noodles
+250,Urban Bistro,Delhi,Karol Bagh,"Seafood, North Indian",Bar & Restaurant,Budget (₹0-200),135,3.3,4716,No,No,No,Nightlife,All Modes,2012,157,Paneer Tikka
+251,Old Palace,Mumbai,Worli,"South Indian, Cafe",Food Court,Premium (₹1000-2000),1690,4.2,3778,Yes,No,Yes,Cafes,Cash,2015,102,Dal Makhani
+252,Royal Palace,Chandigarh,Sector 9,"Pizza, Biryani",Delivery Only,Premium (₹1000-2000),1874,3.7,1734,Yes,No,Yes,Nightlife,All Modes,2010,0,Dal Makhani
+253,Fresh Bistro,Bangalore,HSR Layout,"Pizza, Biryani",Bar & Restaurant,Premium (₹1000-2000),1431,4.4,1235,No,Yes,Yes,Dine-out,UPI,2020,86,Pizza
+254,New Bistro,Jaipur,MI Road,"Mughlai, South Indian",Cafe,Moderate (₹500-1000),684,3.6,2751,No,No,Yes,Desserts,UPI,2016,15,Pasta
+255,Fresh Bar,Delhi,Rohini,"Bengali, Fast Food",Bakery,Luxury (₹2000+),3560,3.3,4191,Yes,No,Yes,Pubs and bars,UPI,2019,171,Paneer Tikka
+256,Grand Garden,Chandigarh,Sector 35,"Sushi, Street Food",Bakery,Luxury (₹2000+),4909,2.9,1879,No,Yes,Yes,Nightlife,All Modes,2013,123,Noodles
+257,Little Lounge,Chandigarh,Sector 43,"Desserts, Street Food",Dhaba,Affordable (₹200-500),240,4.2,2071,Yes,Yes,Yes,Delivery,Cash,2007,131,Chole Bhature
+258,Big Hub,Mumbai,Bandra,"Desserts, Chinese",Fine Dining,Moderate (₹500-1000),626,4.7,3203,Yes,Yes,No,Cafes,Card,2009,144,Sushi
+259,The Bar,Bangalore,Koramangala,"Thai, Sushi",Buffet,Premium (₹1000-2000),1766,2.8,4427,Yes,No,Yes,Pubs and bars,All Modes,2021,173,Kebabs
+260,Urban Corner,Jaipur,Mansarovar,"Seafood, Bakery",Cafe,Budget (₹0-200),138,3.5,1285,No,No,Yes,Nightlife,UPI,2020,146,Biryani
+261,Big House,Surat,Rander,"Burger, North Indian",Dhaba,Moderate (₹500-1000),702,3.4,3382,Yes,Yes,No,Buffet,All Modes,2017,66,Pizza
+262,Grand Dhaba,Delhi,Pitampura,"Desserts, Pizza",Delivery Only,Luxury (₹2000+),3865,4.5,1504,Yes,No,Yes,Pubs and bars,All Modes,2013,0,Tandoori
+263,Golden Corner,Lucknow,Aminabad,"North Indian, Mughlai",Casual Dining,Luxury (₹2000+),2953,3.2,1034,Yes,Yes,Yes,Delivery,Card,2005,136,Dosa
+264,Delhi Garden,Pune,Hadapsar,"Seafood, Thai",Buffet,Budget (₹0-200),109,2.6,3224,Yes,Yes,Yes,Desserts,UPI,2017,13,Butter Chicken
+265,New Garden,Indore,Bhanwarkuan,"Street Food, Biryani",Casual Dining,Affordable (₹200-500),399,3.8,1717,No,No,Yes,Nightlife,Card,2006,200,Tacos
+266,Delhi House,Jaipur,Vaishali Nagar,"Burger, Fast Food",Food Court,Budget (₹0-200),101,4.0,2668,Yes,Yes,Yes,Delivery,All Modes,2012,12,Biryani
+267,Little Lounge,Lucknow,Aminabad,"Continental, Mexican",Fine Dining,Affordable (₹200-500),230,4.1,2782,Yes,No,Yes,Dine-out,Cash,2009,134,Dosa
+268,Big Bites,Pune,Shivajinagar,"Street Food, Fast Food",Casual Dining,Premium (₹1000-2000),1301,3.1,333,Yes,No,Yes,Buffet,All Modes,2011,155,Paneer Tikka
+269,Mumbai Grill,Jaipur,Tonk Road,"Street Food, Pizza",Bakery,Luxury (₹2000+),2002,2.9,2432,Yes,Yes,No,Desserts,All Modes,2010,14,Dal Makhani
+270,Big Lounge,Chandigarh,Sector 43,"Biryani, Thai",Fine Dining,Luxury (₹2000+),4625,4.1,4527,No,Yes,No,Nightlife,Cash,2008,143,Kebabs
+271,Fresh Cafe,Delhi,Connaught Place,"Mughlai, South Indian",Cafe,Budget (₹0-200),184,2.6,3193,No,Yes,Yes,Pubs and bars,UPI,2006,103,Dosa
+272,The Bites,Lucknow,Gomti Nagar,"Fast Food, Desserts",Fine Dining,Premium (₹1000-2000),1631,4.3,3417,Yes,No,No,Pubs and bars,Cash,2007,87,Butter Chicken
+273,Spice Grill,Hyderabad,Jubilee Hills,"Biryani, Bakery",Dhaba,Affordable (₹200-500),485,3.1,1475,Yes,No,No,Desserts,UPI,2019,189,Kebabs
+274,Royal Garden,Kolkata,Salt Lake,"Mughlai, Bakery",Dhaba,Luxury (₹2000+),4253,3.8,4924,Yes,No,Yes,Nightlife,UPI,2018,172,Pasta
+275,Modern Dhaba,Chandigarh,Sector 43,"Bakery, Cafe",Cafe,Premium (₹1000-2000),1610,3.6,3262,Yes,No,Yes,Pubs and bars,Card,2014,11,Pizza
+276,Fresh Corner,Hyderabad,Gachibowli,"North Indian, Burger",Bar & Restaurant,Luxury (₹2000+),4384,3.6,1288,Yes,Yes,Yes,Dine-out,Card,2013,86,Butter Chicken
+277,Modern Bites,Lucknow,Chowk,"Fast Food, Chinese",Food Court,Premium (₹1000-2000),1748,4.2,791,Yes,No,No,Cafes,Cash,2006,95,Burger
+278,New Bites,Kochi,Thrippunithura,"Italian, Pizza",Bakery,Budget (₹0-200),169,3.8,2625,No,Yes,Yes,Buffet,Card,2009,22,Kebabs
+279,Old Garden,Surat,Varachha,"Bengali, Bakery",Bar & Restaurant,Budget (₹0-200),116,4.4,1222,Yes,No,Yes,Buffet,Cash,2022,112,Pizza
+280,Classic Hub,Delhi,Pitampura,"Continental, Mughlai",Buffet,Luxury (₹2000+),2293,4.1,1616,Yes,No,Yes,Nightlife,All Modes,2015,185,Tacos
+281,Spice Bar,Lucknow,Gomti Nagar,"Mediterranean, Street Food",Food Court,Moderate (₹500-1000),586,3.9,208,Yes,No,Yes,Desserts,All Modes,2009,122,Biryani
+282,Golden Bar,Kochi,Vyttila,"Thai, Continental",Fine Dining,Budget (₹0-200),101,4.7,2366,Yes,Yes,No,Nightlife,All Modes,2020,15,Burger
+283,Golden Palace,Hyderabad,Gachibowli,"Desserts, Pizza",Bar & Restaurant,Premium (₹1000-2000),1261,4.1,3095,Yes,No,No,Delivery,UPI,2011,188,Dal Makhani
+284,Old Bar,Chennai,T Nagar,"North Indian, Italian",Dhaba,Moderate (₹500-1000),760,3.2,3176,Yes,Yes,Yes,Delivery,UPI,2020,162,Chole Bhature
+285,Golden Palace,Delhi,Lajpat Nagar,"Street Food, Bakery",Casual Dining,Budget (₹0-200),195,3.3,3232,Yes,No,Yes,Nightlife,UPI,2014,70,Chole Bhature
+286,Grand Restaurant,Chennai,T Nagar,"Mexican, North Indian",Bar & Restaurant,Moderate (₹500-1000),766,4.7,1134,Yes,Yes,Yes,Pubs and bars,Card,2018,71,Dal Makhani
+287,Delhi Bites,Bangalore,Electronic City,"Bengali, Sushi",Buffet,Luxury (₹2000+),3265,2.8,4444,Yes,Yes,No,Buffet,Card,2018,47,Kebabs
+288,Mumbai Bistro,Kochi,Kakkanad,"Cafe, Bakery",Fine Dining,Affordable (₹200-500),410,2.6,2620,Yes,Yes,No,Buffet,UPI,2009,58,Butter Chicken
+289,The Garden,Bangalore,Whitefield,"Bengali, Pizza",Bakery,Luxury (₹2000+),3952,3.1,223,Yes,No,Yes,Dine-out,All Modes,2016,57,Sushi
+290,Old Cafe,Kolkata,Howrah,"Mughlai, Biryani",Cafe,Budget (₹0-200),195,4.8,1833,No,Yes,Yes,Dine-out,All Modes,2020,186,Burger
+291,Urban Dhaba,Chandigarh,Mohali,"Mediterranean, Mexican",Casual Dining,Luxury (₹2000+),4884,3.4,4695,No,No,Yes,Desserts,Cash,2021,37,Momos
+292,Urban Dhaba,Ahmedabad,CG Road,"Desserts, Bakery",Dhaba,Budget (₹0-200),137,4.8,1565,No,No,No,Desserts,UPI,2019,52,Pasta
+293,Little Palace,Chennai,T Nagar,"Continental, Seafood",Buffet,Budget (₹0-200),117,4.8,4486,Yes,Yes,No,Delivery,Card,2019,161,Tacos
+294,Urban House,Surat,Citylight,"Chinese, Burger",Food Court,Affordable (₹200-500),468,4.2,2983,Yes,Yes,Yes,Desserts,Card,2017,150,Pasta
+295,Urban Corner,Mumbai,Juhu,"Bakery, Continental",Quick Bites,Affordable (₹200-500),428,3.5,2545,Yes,No,Yes,Delivery,Card,2011,10,Dal Makhani
+296,The House,Indore,Scheme 54,"Seafood, Desserts",Bar & Restaurant,Budget (₹0-200),158,3.9,3907,No,Yes,Yes,Pubs and bars,Cash,2012,150,Pizza
+297,The Cafe,Lucknow,Indira Nagar,"Continental, South Indian",Food Court,Budget (₹0-200),138,3.9,4952,Yes,Yes,No,Delivery,All Modes,2010,51,Kebabs
+298,Old Grill,Chennai,Adyar,"Bakery, Thai",Casual Dining,Budget (₹0-200),197,4.7,564,Yes,No,Yes,Nightlife,All Modes,2009,41,Tandoori
+299,Mumbai Palace,Chandigarh,Sector 9,"Mediterranean, Cafe",Cafe,Affordable (₹200-500),447,4.3,4343,Yes,Yes,No,Desserts,UPI,2018,165,Sushi
+300,Classic Lounge,Pune,Viman Nagar,"Bengali, Thai",Quick Bites,Luxury (₹2000+),2792,4.0,4044,No,No,No,Delivery,Cash,2005,129,Kebabs
+301,Little Point,Indore,Palasia,"Fast Food, Street Food",Dhaba,Budget (₹0-200),101,4.4,1749,Yes,No,No,Desserts,Cash,2014,86,Chole Bhature
+302,Big Kitchen,Jaipur,Tonk Road,"Italian, Thai",Food Court,Premium (₹1000-2000),1485,3.3,2778,Yes,Yes,Yes,Buffet,Card,2020,49,Kebabs
+303,Old Garden,Ahmedabad,Maninagar,"Mediterranean, South Indian",Bar & Restaurant,Moderate (₹500-1000),909,2.5,4740,Yes,No,No,Delivery,Card,2013,17,Burger
+304,Modern Lounge,Kolkata,New Town,"Mexican, Mughlai",Bakery,Budget (₹0-200),152,4.2,2234,Yes,No,Yes,Nightlife,All Modes,2014,65,Chole Bhature
+305,Spice Corner,Chennai,Adyar,"South Indian, Biryani",Fine Dining,Premium (₹1000-2000),1794,2.9,2796,Yes,No,No,Dine-out,Cash,2021,183,Paneer Tikka
+306,Old Hub,Hyderabad,Banjara Hills,"Desserts, Italian",Casual Dining,Moderate (₹500-1000),552,4.6,2740,Yes,No,No,Buffet,UPI,2005,157,Noodles
+307,Mumbai Dhaba,Chennai,Velachery,"Fast Food, Sushi",Delivery Only,Luxury (₹2000+),4551,2.8,1233,Yes,No,No,Pubs and bars,Cash,2011,0,Chole Bhature
+308,Delhi Cafe,Pune,Shivajinagar,"Burger, Bengali",Cafe,Affordable (₹200-500),225,4.6,4438,Yes,No,No,Buffet,Cash,2008,108,Biryani
+309,New Cafe,Delhi,Pitampura,"Bengali, Bakery",Buffet,Luxury (₹2000+),2380,4.5,4380,Yes,No,Yes,Desserts,All Modes,2008,126,Pizza
+310,Old Dhaba,Nagpur,Amravati Road,"Biryani, Continental",Bakery,Moderate (₹500-1000),732,4.2,2716,Yes,No,Yes,Delivery,All Modes,2008,99,Momos
+311,Delhi Garden,Ahmedabad,Navrangpura,"Thai, Bengali",Quick Bites,Luxury (₹2000+),4182,4.4,2679,Yes,No,No,Cafes,All Modes,2023,115,Dosa
+312,Classic Cafe,Lucknow,Indira Nagar,"Seafood, Mexican",Fine Dining,Moderate (₹500-1000),778,3.5,3576,Yes,No,No,Dine-out,Cash,2023,134,Butter Chicken
+313,Mumbai Palace,Lucknow,Aminabad,"Italian, Seafood",Quick Bites,Moderate (₹500-1000),667,2.8,4895,No,Yes,No,Buffet,Cash,2007,65,Sushi
+314,Big Cafe,Bangalore,Koramangala,"Continental, Seafood",Bar & Restaurant,Moderate (₹500-1000),653,3.6,1694,No,No,No,Nightlife,All Modes,2016,32,Dal Makhani
+315,Fresh Cafe,Mumbai,Worli,"Burger, South Indian",Food Court,Luxury (₹2000+),2963,3.8,2952,Yes,Yes,No,Cafes,All Modes,2015,192,Pasta
+316,New Palace,Kolkata,Dumdum,"Fast Food, Mughlai",Buffet,Affordable (₹200-500),278,4.5,2961,Yes,No,Yes,Dine-out,Card,2005,28,Kebabs
+317,Little Bites,Mumbai,Juhu,"Seafood, Mediterranean",Quick Bites,Budget (₹0-200),154,4.6,4961,Yes,No,Yes,Pubs and bars,All Modes,2017,100,Dosa
+318,Modern Kitchen,Bangalore,Electronic City,"Bakery, Seafood",Cafe,Luxury (₹2000+),3509,3.9,284,Yes,No,No,Delivery,All Modes,2007,46,Tandoori
+319,Old Palace,Surat,Piplod,"Chinese, Cafe",Bakery,Budget (₹0-200),187,4.3,649,Yes,No,No,Pubs and bars,Cash,2015,146,Noodles
+320,Old Palace,Mumbai,Borivali,"Seafood, Bengali",Food Court,Premium (₹1000-2000),1803,2.9,4905,Yes,No,Yes,Nightlife,Cash,2020,158,Paneer Tikka
+321,Grand Restaurant,Lucknow,Hazratganj,"Bengali, North Indian",Delivery Only,Premium (₹1000-2000),1287,2.7,2286,Yes,Yes,No,Desserts,UPI,2005,0,Tandoori
+322,Urban Lounge,Delhi,Lajpat Nagar,"Continental, Seafood",Food Court,Affordable (₹200-500),375,3.7,4330,Yes,No,Yes,Pubs and bars,Card,2020,115,Noodles
+323,Grand House,Kolkata,Ballygunge,"Mughlai, Biryani",Bakery,Moderate (₹500-1000),737,4.3,960,Yes,No,Yes,Nightlife,All Modes,2022,69,Pasta
+324,Old Restaurant,Nagpur,Wardha Road,"Continental, Cafe",Dhaba,Budget (₹0-200),187,4.1,4353,Yes,No,Yes,Buffet,UPI,2018,166,Tacos
+325,Mumbai Restaurant,Nagpur,Manewada,"Pizza, Italian",Delivery Only,Luxury (₹2000+),4775,4.3,4832,No,No,No,Buffet,Card,2015,0,Chole Bhature
+326,Fresh Bistro,Mumbai,Bandra,"North Indian, Street Food",Fine Dining,Luxury (₹2000+),4537,3.3,2330,Yes,No,Yes,Delivery,Cash,2011,163,Kebabs
+327,Spice Point,Delhi,Karol Bagh,"Bengali, Continental",Dhaba,Luxury (₹2000+),3132,2.9,2423,Yes,Yes,No,Desserts,All Modes,2015,75,Paneer Tikka
+328,Delhi Garden,Indore,Palasia,"South Indian, Mediterranean",Dhaba,Moderate (₹500-1000),812,2.9,578,Yes,No,Yes,Buffet,All Modes,2008,46,Chole Bhature
+329,Golden Lounge,Indore,Rajendra Nagar,"Italian, Seafood",Delivery Only,Budget (₹0-200),199,3.9,2062,Yes,Yes,Yes,Dine-out,Cash,2006,0,Kebabs
+330,Royal Grill,Kolkata,Gariahat,"Sushi, Mediterranean",Bakery,Budget (₹0-200),169,3.5,584,No,No,Yes,Desserts,All Modes,2008,155,Chole Bhature
+331,Mumbai Bar,Kochi,Kaloor,"Burger, Mediterranean",Casual Dining,Budget (₹0-200),197,2.7,3775,Yes,No,Yes,Pubs and bars,Cash,2017,179,Dosa
+332,Urban Bistro,Chennai,Porur,"Thai, Desserts",Fine Dining,Premium (₹1000-2000),1064,3.0,4867,Yes,Yes,Yes,Buffet,UPI,2020,146,Sushi
+333,The Kitchen,Indore,Bhawarkuan,"Sushi, South Indian",Food Court,Budget (₹0-200),158,4.4,4295,No,Yes,Yes,Dine-out,Cash,2006,198,Paneer Tikka
+334,Old Bites,Ahmedabad,CG Road,"Bengali, South Indian",Cafe,Affordable (₹200-500),433,2.6,2527,Yes,Yes,No,Delivery,Cash,2008,137,Dal Makhani
+335,Spice Garden,Indore,Bhanwarkuan,"Fast Food, Street Food",Food Court,Premium (₹1000-2000),1046,3.9,1135,Yes,Yes,No,Dine-out,UPI,2007,40,Pizza
+336,Royal Grill,Bangalore,Electronic City,"Thai, Bakery",Quick Bites,Premium (₹1000-2000),1900,2.8,3091,Yes,No,Yes,Delivery,Cash,2005,55,Tacos
+337,New Grill,Delhi,Dwarka,"Seafood, Continental",Cafe,Affordable (₹200-500),219,3.5,1439,Yes,No,Yes,Cafes,Cash,2014,99,Pasta
+338,Golden Bistro,Mumbai,Colaba,"Desserts, Italian",Bakery,Moderate (₹500-1000),557,4.1,2274,Yes,No,No,Buffet,All Modes,2020,55,Paneer Tikka
+339,The Bar,Nagpur,Sitabuldi,"Thai, Burger",Cafe,Premium (₹1000-2000),1053,4.4,3722,Yes,No,No,Dine-out,Card,2005,134,Chole Bhature
+340,Urban Dhaba,Delhi,Karol Bagh,"Street Food, Bengali",Bakery,Moderate (₹500-1000),666,4.1,2678,No,Yes,No,Dine-out,All Modes,2011,106,Tacos
+341,Old Lounge,Hyderabad,Jubilee Hills,"Seafood, South Indian",Dhaba,Affordable (₹200-500),434,2.9,3069,Yes,No,Yes,Nightlife,UPI,2011,95,Paneer Tikka
+342,Delhi Cafe,Mumbai,Bandra,"Italian, Seafood",Buffet,Premium (₹1000-2000),1993,4.6,4954,Yes,No,Yes,Desserts,Card,2007,115,Sushi
+343,Fresh Dhaba,Jaipur,Sanganer,"Bakery, Seafood",Buffet,Moderate (₹500-1000),722,4.3,2030,Yes,No,Yes,Pubs and bars,Card,2023,11,Pasta
+344,Old Grill,Mumbai,Bandra,"Desserts, South Indian",Dhaba,Luxury (₹2000+),2050,4.5,3716,No,No,No,Buffet,All Modes,2011,43,Burger
+345,Grand Bistro,Chennai,Velachery,"North Indian, Desserts",Delivery Only,Affordable (₹200-500),270,3.9,3736,No,No,No,Dine-out,UPI,2019,0,Tandoori
+346,Fresh Bar,Nagpur,Sitabuldi,"Chinese, Mediterranean",Food Court,Luxury (₹2000+),2331,4.3,4453,Yes,No,Yes,Pubs and bars,UPI,2006,141,Tacos
+347,Urban Kitchen,Nagpur,Hingna,"Italian, Mediterranean",Food Court,Premium (₹1000-2000),1726,2.9,4587,Yes,No,Yes,Dine-out,UPI,2012,148,Butter Chicken
+348,Little Garden,Nagpur,Amravati Road,"Bakery, Fast Food",Cafe,Moderate (₹500-1000),690,4.1,2280,Yes,No,No,Cafes,Cash,2020,191,Chole Bhature
+349,Old Lounge,Nagpur,Manewada,"Thai, Chinese",Cafe,Premium (₹1000-2000),1282,4.7,2372,Yes,Yes,Yes,Buffet,Card,2020,48,Sushi
+350,Delhi Hub,Hyderabad,Banjara Hills,"Cafe, Continental",Buffet,Moderate (₹500-1000),511,4.0,2398,No,No,No,Desserts,UPI,2018,158,Burger
+351,Old Lounge,Nagpur,Hingna,"Desserts, Bakery",Buffet,Premium (₹1000-2000),1495,4.7,2520,Yes,No,Yes,Nightlife,Cash,2009,100,Pizza
+352,Modern Bites,Ahmedabad,Navrangpura,"Mughlai, Bakery",Delivery Only,Affordable (₹200-500),321,4.7,1267,Yes,No,No,Pubs and bars,Card,2019,0,Pizza
+353,Golden Palace,Pune,Baner,"South Indian, Thai",Food Court,Affordable (₹200-500),262,4.8,4381,Yes,No,No,Cafes,Card,2019,91,Paneer Tikka
+354,Grand Grill,Mumbai,Powai,"Burger, Desserts",Delivery Only,Luxury (₹2000+),2164,4.7,3631,Yes,No,No,Dine-out,Cash,2014,0,Biryani
+355,Old Corner,Kolkata,Ballygunge,"Chinese, Thai",Casual Dining,Luxury (₹2000+),3824,3.0,2286,Yes,No,No,Buffet,Cash,2021,110,Dosa
+356,Modern Lounge,Ahmedabad,Maninagar,"Desserts, South Indian",Food Court,Premium (₹1000-2000),1359,3.4,3064,Yes,No,Yes,Cafes,Cash,2011,196,Tacos
+357,Big House,Ahmedabad,Vastrapur,"Burger, Mughlai",Dhaba,Premium (₹1000-2000),1537,2.7,1712,Yes,No,No,Delivery,All Modes,2007,11,Pasta
+358,New Cafe,Nagpur,Manewada,"Cafe, Street Food",Bakery,Affordable (₹200-500),354,3.2,4028,Yes,Yes,Yes,Cafes,All Modes,2012,16,Noodles
+359,Delhi Restaurant,Mumbai,Juhu,"Seafood, Italian",Delivery Only,Premium (₹1000-2000),1993,4.0,243,Yes,No,No,Pubs and bars,UPI,2023,0,Momos
+360,Fresh Restaurant,Lucknow,Chowk,"Seafood, Italian",Food Court,Luxury (₹2000+),2554,3.9,1207,Yes,No,Yes,Nightlife,Card,2006,79,Burger
+361,The Restaurant,Kolkata,Behala,"Burger, Cafe",Fine Dining,Luxury (₹2000+),3295,4.3,4915,Yes,No,Yes,Desserts,UPI,2013,185,Tandoori
+362,Spice Palace,Surat,Katargam,"Bakery, Thai",Quick Bites,Budget (₹0-200),152,3.4,3982,Yes,No,Yes,Delivery,Card,2009,138,Dosa
+363,Big Bites,Chandigarh,Sector 8,"Cafe, Desserts",Bar & Restaurant,Luxury (₹2000+),3276,4.7,964,Yes,No,Yes,Buffet,UPI,2009,123,Tacos
+364,Royal Grill,Lucknow,Alambagh,"Burger, North Indian",Fine Dining,Affordable (₹200-500),307,4.2,2528,Yes,No,Yes,Buffet,Cash,2007,14,Noodles
+365,The Dhaba,Ahmedabad,Vastrapur,"Italian, South Indian",Bar & Restaurant,Luxury (₹2000+),2395,4.7,364,Yes,No,Yes,Desserts,Cash,2011,160,Tacos
+366,Grand Corner,Hyderabad,Hitech City,"North Indian, Italian",Quick Bites,Moderate (₹500-1000),534,4.6,1991,Yes,No,Yes,Desserts,Cash,2021,65,Tandoori
+367,Royal Bites,Hyderabad,Madhapur,"Cafe, North Indian",Fine Dining,Affordable (₹200-500),254,3.9,3611,No,No,No,Cafes,All Modes,2011,141,Dosa
+368,Big Corner,Kolkata,Salt Lake,"Italian, Seafood",Fine Dining,Luxury (₹2000+),4022,4.2,4574,Yes,No,Yes,Delivery,All Modes,2014,126,Dal Makhani
+369,Grand Point,Surat,Piplod,"Street Food, Biryani",Bar & Restaurant,Premium (₹1000-2000),1013,4.6,3906,Yes,No,Yes,Cafes,Cash,2017,122,Chole Bhature
+370,Spice Cafe,Nagpur,Dharampeth,"Mexican, Mediterranean",Bakery,Budget (₹0-200),125,4.8,2784,Yes,Yes,Yes,Buffet,All Modes,2013,192,Noodles
+371,Big Garden,Lucknow,Rajajipuram,"Mexican, Thai",Buffet,Luxury (₹2000+),4036,3.2,3734,No,No,No,Dine-out,Card,2005,35,Tandoori
+372,Old Bar,Mumbai,Andheri,"North Indian, Fast Food",Dhaba,Luxury (₹2000+),4129,4.0,799,Yes,Yes,Yes,Desserts,All Modes,2019,61,Pizza
+373,Old Palace,Nagpur,Amravati Road,"Pizza, Bakery",Food Court,Luxury (₹2000+),3541,4.6,985,Yes,Yes,Yes,Cafes,All Modes,2006,18,Paneer Tikka
+374,Urban Grill,Jaipur,Mansarovar,"Mughlai, Desserts",Dhaba,Affordable (₹200-500),451,3.7,906,Yes,No,Yes,Pubs and bars,All Modes,2020,153,Sushi
+375,New Restaurant,Bangalore,Koramangala,"Seafood, Bengali",Dhaba,Luxury (₹2000+),3428,2.6,4847,Yes,No,Yes,Desserts,Cash,2015,107,Butter Chicken
+376,Mumbai Hub,Kolkata,Behala,"Thai, South Indian",Cafe,Affordable (₹200-500),258,3.9,546,Yes,No,Yes,Pubs and bars,UPI,2006,127,Kebabs
+377,Modern Palace,Chandigarh,Panchkula,"Mediterranean, Pizza",Casual Dining,Premium (₹1000-2000),1500,3.9,2651,Yes,No,Yes,Buffet,Card,2015,137,Chole Bhature
+378,Royal Lounge,Indore,Nipania,"Burger, Mexican",Dhaba,Affordable (₹200-500),347,4.5,4399,No,No,Yes,Pubs and bars,All Modes,2012,169,Tandoori
+379,Modern Corner,Delhi,Karol Bagh,"Pizza, Chinese",Bakery,Luxury (₹2000+),3228,3.3,638,No,No,Yes,Cafes,UPI,2011,116,Pasta
+380,Grand Garden,Chennai,Tambaram,"Cafe, Mughlai",Casual Dining,Luxury (₹2000+),3776,3.0,3838,Yes,No,Yes,Pubs and bars,Cash,2021,61,Burger
+381,Golden Cafe,Ahmedabad,Navrangpura,"Burger, Street Food",Dhaba,Moderate (₹500-1000),631,4.5,2196,Yes,No,Yes,Dine-out,All Modes,2012,39,Paneer Tikka
+382,Golden Garden,Hyderabad,Banjara Hills,"Burger, Seafood",Buffet,Luxury (₹2000+),3058,4.7,1664,No,No,No,Desserts,UPI,2022,55,Kebabs
+383,Little House,Chandigarh,Sector 17,"North Indian, Chinese",Fine Dining,Moderate (₹500-1000),620,4.7,749,Yes,Yes,Yes,Buffet,Cash,2021,180,Sushi
+384,Old Bites,Lucknow,Rajajipuram,"Chinese, Pizza",Bakery,Budget (₹0-200),154,4.3,1942,Yes,No,No,Dine-out,UPI,2019,114,Pizza
+385,Old Palace,Chandigarh,Sector 17,"Thai, Italian",Food Court,Luxury (₹2000+),4931,3.1,2285,No,No,No,Nightlife,UPI,2005,175,Tacos
+386,Fresh Grill,Lucknow,Hazratganj,"South Indian, Pizza",Delivery Only,Luxury (₹2000+),2968,4.8,2982,No,No,No,Desserts,All Modes,2017,0,Biryani
+387,Urban Bites,Kochi,Thrippunithura,"Pizza, Sushi",Fine Dining,Affordable (₹200-500),408,4.7,2608,Yes,Yes,Yes,Desserts,Cash,2020,130,Tandoori
+388,Little Hub,Kolkata,Behala,"Italian, Fast Food",Delivery Only,Luxury (₹2000+),2112,3.9,4496,Yes,No,Yes,Desserts,Cash,2010,0,Kebabs
+389,The Hub,Ahmedabad,Navrangpura,"Fast Food, Sushi",Food Court,Luxury (₹2000+),3308,3.1,1075,Yes,Yes,Yes,Cafes,All Modes,2009,76,Paneer Tikka
+390,Big Restaurant,Nagpur,Hingna,"Fast Food, Chinese",Dhaba,Moderate (₹500-1000),985,4.8,4682,Yes,No,Yes,Buffet,Card,2007,128,Dosa
+391,The Hub,Chennai,Adyar,"Bengali, Mediterranean",Bakery,Moderate (₹500-1000),867,2.9,4656,Yes,Yes,Yes,Desserts,All Modes,2020,40,Dosa
+392,Golden Point,Surat,Citylight,"Pizza, Sushi",Buffet,Premium (₹1000-2000),1184,3.9,2328,Yes,No,Yes,Desserts,Card,2005,84,Pizza
+393,Urban Dhaba,Hyderabad,Secunderabad,"Thai, Bengali",Buffet,Budget (₹0-200),187,4.6,3266,Yes,No,Yes,Cafes,UPI,2007,34,Chole Bhature
+394,Mumbai Bites,Mumbai,Bandra,"Biryani, Desserts",Food Court,Luxury (₹2000+),2541,3.7,3130,Yes,Yes,Yes,Pubs and bars,Cash,2023,55,Pizza
+395,Urban Corner,Bangalore,Hebbal,"Street Food, Continental",Fine Dining,Moderate (₹500-1000),946,2.8,371,No,Yes,Yes,Buffet,UPI,2018,82,Tacos
+396,Modern Point,Kochi,Fort Kochi,"Pizza, Cafe",Food Court,Premium (₹1000-2000),1193,4.9,1249,Yes,No,No,Delivery,Card,2010,19,Momos
+397,Little House,Chennai,Adyar,"Mediterranean, Italian",Buffet,Budget (₹0-200),163,3.8,3759,No,No,No,Delivery,UPI,2007,62,Sushi
+398,Fresh Cafe,Chennai,Adyar,"Desserts, Pizza",Bakery,Luxury (₹2000+),3008,3.8,4685,Yes,No,Yes,Desserts,All Modes,2008,94,Biryani
+399,New Corner,Chennai,Anna Nagar,"Bakery, Italian",Food Court,Affordable (₹200-500),337,4.5,3940,Yes,Yes,Yes,Nightlife,Cash,2019,93,Tandoori
+400,Golden Point,Surat,Athwa,"South Indian, Sushi",Food Court,Budget (₹0-200),132,3.4,3277,Yes,No,No,Delivery,Cash,2011,51,Pasta
+401,Delhi Bar,Indore,Rajendra Nagar,"Continental, Italian",Delivery Only,Premium (₹1000-2000),1098,4.7,4953,No,No,Yes,Pubs and bars,Card,2020,0,Momos
+402,Old Restaurant,Kochi,Thrippunithura,"Bakery, Mediterranean",Fine Dining,Premium (₹1000-2000),1349,3.5,3499,Yes,No,Yes,Buffet,Card,2009,136,Chole Bhature
+403,Delhi House,Nagpur,Dharampeth,"Mediterranean, Chinese",Buffet,Moderate (₹500-1000),651,4.7,2046,Yes,Yes,No,Pubs and bars,Cash,2006,141,Butter Chicken
+404,New Bistro,Jaipur,Jagatpura,"Street Food, Bengali",Delivery Only,Moderate (₹500-1000),591,4.3,143,Yes,No,Yes,Desserts,All Modes,2006,0,Butter Chicken
+405,Mumbai Lounge,Kolkata,Gariahat,"Street Food, Seafood",Bakery,Moderate (₹500-1000),722,2.9,4958,Yes,Yes,Yes,Delivery,All Modes,2008,13,Paneer Tikka
+406,Old Grill,Nagpur,Amravati Road,"Mexican, Desserts",Delivery Only,Luxury (₹2000+),2056,4.8,3245,Yes,No,No,Dine-out,Cash,2005,0,Tandoori
+407,Golden House,Hyderabad,Banjara Hills,"Continental, Pizza",Dhaba,Luxury (₹2000+),2680,4.3,1223,Yes,Yes,Yes,Dine-out,All Modes,2020,130,Biryani
+408,Modern Dhaba,Chandigarh,Mohali,"Fast Food, Sushi",Bakery,Premium (₹1000-2000),1592,2.7,3547,Yes,No,Yes,Buffet,UPI,2006,134,Pasta
+409,Golden Grill,Ahmedabad,Prahlad Nagar,"South Indian, Cafe",Casual Dining,Premium (₹1000-2000),1637,3.1,3427,Yes,No,Yes,Nightlife,All Modes,2018,15,Paneer Tikka
+410,Old Corner,Chennai,Velachery,"Street Food, Biryani",Bar & Restaurant,Affordable (₹200-500),399,4.1,1084,Yes,No,No,Buffet,UPI,2020,51,Dal Makhani
+411,Little Grill,Hyderabad,Madhapur,"Chinese, Desserts",Quick Bites,Affordable (₹200-500),355,3.7,3417,Yes,Yes,No,Delivery,Cash,2016,76,Burger
+412,Royal Point,Nagpur,Sadar,"Desserts, South Indian",Fine Dining,Moderate (₹500-1000),632,3.0,4613,No,Yes,No,Desserts,Cash,2022,78,Tacos
+413,Little Kitchen,Bangalore,Indiranagar,"Street Food, Seafood",Fine Dining,Budget (₹0-200),180,3.7,1378,Yes,No,Yes,Dine-out,UPI,2019,139,Momos
+414,Royal Bar,Surat,Vesu,"Thai, Sushi",Quick Bites,Budget (₹0-200),131,4.3,63,Yes,No,Yes,Dine-out,Cash,2013,105,Tandoori
+415,Mumbai Bar,Indore,Rajendra Nagar,"Biryani, Continental",Bar & Restaurant,Premium (₹1000-2000),1698,3.5,3363,Yes,Yes,Yes,Delivery,All Modes,2009,12,Tandoori
+416,Spice Corner,Indore,Palasia,"Sushi, Mediterranean",Quick Bites,Premium (₹1000-2000),1646,4.1,1246,Yes,No,Yes,Desserts,UPI,2018,112,Tacos
+417,Little Grill,Nagpur,Manewada,"Sushi, Mexican",Casual Dining,Moderate (₹500-1000),857,3.6,1690,Yes,No,Yes,Cafes,Card,2014,31,Biryani
+418,New Grill,Jaipur,Tonk Road,"Continental, Cafe",Bar & Restaurant,Moderate (₹500-1000),511,3.8,4280,Yes,Yes,No,Pubs and bars,UPI,2012,87,Tandoori
+419,Little Kitchen,Kolkata,Salt Lake,"Thai, Pizza",Bar & Restaurant,Moderate (₹500-1000),877,4.8,3686,Yes,Yes,No,Nightlife,Card,2023,154,Tandoori
+420,Mumbai Restaurant,Kochi,Vyttila,"Burger, Bengali",Quick Bites,Premium (₹1000-2000),1100,3.7,1587,Yes,Yes,Yes,Buffet,All Modes,2018,30,Butter Chicken
+421,Urban Cafe,Mumbai,Worli,"Seafood, Fast Food",Buffet,Budget (₹0-200),166,3.5,4589,Yes,No,No,Cafes,All Modes,2019,186,Tacos
+422,Fresh Cafe,Ahmedabad,Vastrapur,"Continental, Cafe",Quick Bites,Premium (₹1000-2000),1484,3.7,4344,No,Yes,No,Buffet,Card,2022,104,Tacos
+423,Spice Bistro,Delhi,Pitampura,"Thai, Bengali",Delivery Only,Budget (₹0-200),138,3.2,3077,Yes,Yes,Yes,Dine-out,All Modes,2006,0,Tacos
+424,Urban Restaurant,Kochi,Fort Kochi,"Fast Food, Mughlai",Buffet,Budget (₹0-200),153,2.7,376,Yes,No,Yes,Cafes,UPI,2017,131,Sushi
+425,Big Cafe,Surat,Athwa,"Desserts, Street Food",Buffet,Premium (₹1000-2000),1404,2.7,3365,Yes,No,Yes,Pubs and bars,Cash,2019,198,Pizza
+426,Fresh Cafe,Nagpur,Dharampeth,"North Indian, Bengali",Delivery Only,Luxury (₹2000+),4137,2.7,4448,Yes,No,No,Dine-out,All Modes,2021,0,Tacos
+427,Grand Bites,Mumbai,Andheri,"Cafe, Mughlai",Casual Dining,Moderate (₹500-1000),913,4.5,4757,Yes,Yes,No,Nightlife,All Modes,2023,21,Momos
+428,Mumbai Hub,Chandigarh,Sector 17,"Mughlai, Street Food",Casual Dining,Luxury (₹2000+),2748,2.7,823,Yes,No,Yes,Nightlife,Cash,2009,88,Pasta
+429,The Lounge,Nagpur,Sadar,"Sushi, Mughlai",Casual Dining,Budget (₹0-200),141,3.3,3391,Yes,No,Yes,Delivery,Card,2012,162,Dal Makhani
+430,Classic Garden,Hyderabad,Secunderabad,"Desserts, Mexican",Fine Dining,Moderate (₹500-1000),708,3.8,546,Yes,No,Yes,Delivery,UPI,2022,160,Kebabs
+431,Big Palace,Delhi,Saket,"Continental, Sushi",Bakery,Premium (₹1000-2000),1800,3.7,1176,No,Yes,No,Pubs and bars,All Modes,2022,125,Biryani
+432,Fresh Lounge,Mumbai,Borivali,"Burger, Mughlai",Casual Dining,Budget (₹0-200),144,3.1,3124,No,No,No,Nightlife,Cash,2010,199,Chole Bhature
+433,Delhi Bistro,Lucknow,Gomti Nagar,"Mexican, Italian",Quick Bites,Luxury (₹2000+),4898,4.0,2617,Yes,No,Yes,Cafes,UPI,2012,179,Burger
+434,Old Lounge,Pune,Kothrud,"Sushi, North Indian",Quick Bites,Budget (₹0-200),171,4.1,3394,No,Yes,Yes,Delivery,Cash,2022,17,Tacos
+435,Grand Bistro,Chandigarh,Mohali,"Thai, Mediterranean",Bakery,Moderate (₹500-1000),979,4.9,1032,No,Yes,No,Delivery,Card,2005,81,Kebabs
+436,Golden Bistro,Kochi,Kaloor,"Bengali, Burger",Cafe,Affordable (₹200-500),203,3.2,4974,No,No,Yes,Cafes,Cash,2013,155,Chole Bhature
+437,Classic Dhaba,Ahmedabad,Navrangpura,"Bakery, Bengali",Quick Bites,Budget (₹0-200),129,2.8,4678,Yes,No,Yes,Dine-out,Cash,2022,167,Pizza
+438,The Hub,Nagpur,Amravati Road,"South Indian, Thai",Dhaba,Premium (₹1000-2000),1044,3.7,4069,Yes,Yes,No,Dine-out,Cash,2013,117,Chole Bhature
+439,The Hub,Ahmedabad,Maninagar,"Fast Food, Thai",Fine Dining,Luxury (₹2000+),3348,4.8,3481,Yes,No,Yes,Nightlife,Cash,2008,17,Momos
+440,Modern Garden,Kolkata,Park Street,"Sushi, Pizza",Cafe,Budget (₹0-200),166,4.5,2742,No,Yes,Yes,Pubs and bars,All Modes,2008,170,Momos
+441,Spice Kitchen,Lucknow,Gomti Nagar,"South Indian, Mediterranean",Food Court,Budget (₹0-200),108,2.6,3547,Yes,Yes,Yes,Delivery,UPI,2017,112,Butter Chicken
+442,Golden Point,Lucknow,Chowk,"Bengali, North Indian",Buffet,Premium (₹1000-2000),1529,4.0,2792,No,No,No,Pubs and bars,Card,2008,36,Biryani
+443,Modern Garden,Lucknow,Gomti Nagar,"Fast Food, Bengali",Quick Bites,Luxury (₹2000+),2180,3.7,3652,Yes,No,Yes,Delivery,Card,2014,159,Pasta
+444,Delhi Lounge,Jaipur,Tonk Road,"Cafe, Continental",Quick Bites,Premium (₹1000-2000),1694,3.2,76,Yes,No,Yes,Delivery,Card,2021,153,Sushi
+445,Mumbai Dhaba,Mumbai,Worli,"Fast Food, Biryani",Fine Dining,Moderate (₹500-1000),936,4.2,3838,Yes,No,Yes,Nightlife,UPI,2018,94,Paneer Tikka
+446,Urban Garden,Delhi,Vasant Kunj,"South Indian, Desserts",Cafe,Budget (₹0-200),130,3.6,1756,Yes,No,Yes,Desserts,All Modes,2011,112,Paneer Tikka
+447,Mumbai Kitchen,Chandigarh,Sector 17,"Chinese, Mexican",Casual Dining,Luxury (₹2000+),2121,3.6,4807,Yes,Yes,Yes,Dine-out,Card,2014,54,Dosa
+448,Little Cafe,Kochi,Fort Kochi,"Sushi, Bakery",Cafe,Affordable (₹200-500),270,4.5,838,Yes,Yes,Yes,Nightlife,Card,2014,126,Dosa
+449,Grand Cafe,Pune,Shivajinagar,"Desserts, Mediterranean",Fine Dining,Budget (₹0-200),188,3.0,3108,Yes,Yes,Yes,Buffet,Card,2006,167,Dal Makhani
+450,Big Cafe,Hyderabad,Madhapur,"Sushi, Biryani",Casual Dining,Moderate (₹500-1000),901,4.6,1724,Yes,No,No,Pubs and bars,Cash,2010,140,Pasta
+451,Old Palace,Indore,Nipania,"Street Food, Mughlai",Food Court,Moderate (₹500-1000),832,3.6,4771,No,No,Yes,Dine-out,Card,2019,70,Pasta
+452,New Bites,Hyderabad,Madhapur,"Mexican, Bengali",Quick Bites,Moderate (₹500-1000),765,2.8,698,Yes,No,Yes,Pubs and bars,Cash,2019,141,Dal Makhani
+453,Old House,Pune,Hadapsar,"Mediterranean, Street Food",Food Court,Premium (₹1000-2000),1077,2.6,3628,Yes,No,Yes,Delivery,UPI,2021,141,Chole Bhature
+454,Big Restaurant,Nagpur,Dharampeth,"Biryani, Italian",Fine Dining,Budget (₹0-200),186,3.0,1620,Yes,Yes,No,Desserts,UPI,2011,190,Dal Makhani
+455,The Garden,Bangalore,Jayanagar,"Burger, Sushi",Food Court,Premium (₹1000-2000),1407,2.5,4209,No,No,No,Dine-out,Card,2020,69,Chole Bhature
+456,Little Point,Lucknow,Aminabad,"Street Food, Sushi",Fine Dining,Moderate (₹500-1000),515,3.5,3603,Yes,No,No,Pubs and bars,Card,2014,198,Biryani
+457,Mumbai Dhaba,Ahmedabad,Maninagar,"Mediterranean, Street Food",Dhaba,Luxury (₹2000+),3352,2.6,273,Yes,No,No,Pubs and bars,All Modes,2017,62,Pasta
+458,Golden House,Delhi,Pitampura,"Italian, Thai",Bakery,Premium (₹1000-2000),1705,2.8,4539,Yes,Yes,Yes,Cafes,Cash,2010,60,Butter Chicken
+459,Delhi Dhaba,Kochi,Thrippunithura,"Biryani, Sushi",Bar & Restaurant,Budget (₹0-200),141,3.7,1417,No,Yes,Yes,Dine-out,All Modes,2020,200,Butter Chicken
+460,Royal Point,Kolkata,Ballygunge,"Fast Food, Sushi",Dhaba,Premium (₹1000-2000),1701,4.8,4822,Yes,No,No,Nightlife,Card,2005,46,Momos
+461,Modern Garden,Delhi,Pitampura,"Biryani, Cafe",Food Court,Luxury (₹2000+),4914,3.9,756,No,No,Yes,Desserts,UPI,2017,166,Sushi
+462,New Dhaba,Indore,MG Road,"Mughlai, Street Food",Buffet,Premium (₹1000-2000),1903,2.7,367,Yes,No,No,Pubs and bars,UPI,2007,188,Tandoori
+463,Urban House,Surat,Citylight,"Mediterranean, Bakery",Fine Dining,Moderate (₹500-1000),584,4.3,2680,Yes,Yes,No,Pubs and bars,Cash,2019,16,Butter Chicken
+464,New Corner,Nagpur,Amravati Road,"Mexican, Fast Food",Dhaba,Budget (₹0-200),141,4.2,1128,Yes,No,Yes,Delivery,Card,2019,45,Momos
+465,Fresh Cafe,Chandigarh,Sector 9,"Mughlai, North Indian",Bakery,Budget (₹0-200),121,3.8,3211,Yes,No,Yes,Buffet,UPI,2009,122,Burger
+466,Little Kitchen,Bangalore,HSR Layout,"Cafe, Fast Food",Buffet,Budget (₹0-200),176,3.2,439,Yes,No,No,Desserts,Card,2012,105,Tacos
+467,Spice Kitchen,Hyderabad,Gachibowli,"Mediterranean, North Indian",Casual Dining,Moderate (₹500-1000),870,2.7,801,Yes,No,No,Cafes,Cash,2015,92,Chole Bhature
+468,Modern Dhaba,Nagpur,Ramdaspeth,"Cafe, Mexican",Dhaba,Budget (₹0-200),101,3.4,1432,Yes,Yes,Yes,Cafes,Card,2019,66,Butter Chicken
+469,Grand Lounge,Nagpur,Manewada,"Thai, South Indian",Fine Dining,Affordable (₹200-500),474,3.7,844,No,No,No,Dine-out,UPI,2008,163,Burger
+470,Grand Bites,Nagpur,Wardha Road,"Continental, Thai",Quick Bites,Moderate (₹500-1000),761,2.5,4802,No,Yes,Yes,Pubs and bars,Cash,2012,15,Dal Makhani
+471,Delhi Dhaba,Indore,Palasia,"Mediterranean, Biryani",Bakery,Budget (₹0-200),119,3.7,1664,Yes,Yes,Yes,Dine-out,All Modes,2015,44,Pizza
+472,Classic Garden,Pune,Koregaon Park,"Mediterranean, Burger",Casual Dining,Affordable (₹200-500),327,3.0,452,Yes,No,Yes,Buffet,Card,2017,143,Burger
+473,Grand Kitchen,Bangalore,Hebbal,"Chinese, Desserts",Fine Dining,Affordable (₹200-500),288,4.8,1038,Yes,No,Yes,Dine-out,Cash,2018,195,Momos
+474,Little Dhaba,Chennai,Adyar,"Biryani, Street Food",Quick Bites,Luxury (₹2000+),3472,3.9,1659,Yes,No,Yes,Cafes,All Modes,2010,130,Momos
+475,Big Cafe,Kolkata,Dumdum,"Seafood, North Indian",Dhaba,Premium (₹1000-2000),1389,3.8,4538,Yes,No,No,Nightlife,All Modes,2014,106,Chole Bhature
+476,Spice Corner,Lucknow,Aminabad,"Continental, Desserts",Cafe,Affordable (₹200-500),407,4.6,3075,Yes,Yes,Yes,Buffet,UPI,2017,135,Pizza
+477,New Bites,Nagpur,Dharampeth,"South Indian, Continental",Dhaba,Luxury (₹2000+),3508,4.8,2865,Yes,Yes,Yes,Buffet,Cash,2017,118,Tandoori
+478,Old Kitchen,Hyderabad,Gachibowli,"Thai, North Indian",Quick Bites,Moderate (₹500-1000),506,3.1,4942,No,No,Yes,Buffet,All Modes,2017,190,Dal Makhani
+479,Classic Bites,Kochi,Edapally,"Fast Food, Street Food",Quick Bites,Premium (₹1000-2000),1315,3.7,4377,Yes,No,Yes,Desserts,Cash,2008,172,Dal Makhani
+480,Fresh Cafe,Indore,Nipania,"Pizza, Fast Food",Dhaba,Moderate (₹500-1000),768,2.5,582,Yes,Yes,Yes,Nightlife,All Modes,2010,55,Burger
+481,Golden House,Bangalore,Whitefield,"Mughlai, Cafe",Fine Dining,Premium (₹1000-2000),1923,2.6,1506,Yes,Yes,Yes,Cafes,Cash,2010,30,Pizza
+482,Spice Restaurant,Delhi,Pitampura,"Chinese, Thai",Casual Dining,Luxury (₹2000+),2029,4.1,835,Yes,No,Yes,Buffet,Cash,2008,64,Chole Bhature
+483,New Lounge,Indore,Vijay Nagar,"Desserts, Pizza",Buffet,Premium (₹1000-2000),1369,3.3,2820,Yes,No,Yes,Cafes,All Modes,2006,101,Sushi
+484,The House,Pune,Hinjewadi,"Mexican, Continental",Casual Dining,Luxury (₹2000+),4698,4.8,2046,Yes,No,Yes,Desserts,All Modes,2021,115,Kebabs
+485,Grand Point,Hyderabad,Banjara Hills,"Sushi, North Indian",Food Court,Budget (₹0-200),151,3.1,3979,Yes,No,Yes,Buffet,Cash,2017,85,Dal Makhani
+486,Fresh Palace,Hyderabad,Hitech City,"Bakery, Desserts",Casual Dining,Affordable (₹200-500),286,4.5,4505,No,Yes,Yes,Cafes,Card,2012,64,Paneer Tikka
+487,Spice Hub,Indore,Palasia,"North Indian, Fast Food",Food Court,Premium (₹1000-2000),1139,3.1,3911,Yes,Yes,No,Buffet,All Modes,2007,187,Burger
+488,Urban Lounge,Chandigarh,Sector 8,"Bengali, Chinese",Food Court,Premium (₹1000-2000),1118,4.4,3589,No,No,No,Delivery,Cash,2007,97,Tandoori
+489,Little Bistro,Lucknow,Indira Nagar,"Bakery, Thai",Quick Bites,Moderate (₹500-1000),597,2.5,516,No,No,No,Cafes,UPI,2016,183,Tacos
+490,Classic Bar,Indore,MG Road,"Bengali, Bakery",Cafe,Budget (₹0-200),118,4.5,2598,No,Yes,No,Buffet,All Modes,2009,163,Pizza
+491,Modern Corner,Bangalore,Koramangala,"Burger, Cafe",Fine Dining,Moderate (₹500-1000),578,3.7,3095,No,No,Yes,Dine-out,Card,2006,55,Sushi
+492,Delhi Point,Ahmedabad,Vastrapur,"Mughlai, North Indian",Bar & Restaurant,Premium (₹1000-2000),1073,3.6,2863,Yes,No,No,Buffet,UPI,2014,188,Tacos
+493,Spice Cafe,Hyderabad,Ameerpet,"Sushi, Bengali",Casual Dining,Moderate (₹500-1000),649,3.9,3629,No,No,Yes,Dine-out,Card,2011,198,Kebabs
+494,Little Point,Mumbai,Powai,"Bakery, Italian",Quick Bites,Premium (₹1000-2000),1967,4.7,796,No,No,Yes,Delivery,UPI,2023,121,Paneer Tikka
+495,Golden Kitchen,Nagpur,Wardha Road,"Italian, Pizza",Dhaba,Premium (₹1000-2000),1474,4.8,3085,Yes,No,No,Cafes,UPI,2019,104,Biryani
+496,Spice Bistro,Delhi,Karol Bagh,"Seafood, Cafe",Cafe,Budget (₹0-200),123,4.3,4866,No,No,No,Cafes,UPI,2023,42,Butter Chicken
+497,Little Bites,Pune,Hinjewadi,"Cafe, Mughlai",Dhaba,Budget (₹0-200),162,4.4,4352,No,No,No,Pubs and bars,Cash,2011,178,Tacos
+498,Fresh Lounge,Delhi,Lajpat Nagar,"Mughlai, North Indian",Bar & Restaurant,Premium (₹1000-2000),1575,2.8,1699,Yes,Yes,Yes,Desserts,Cash,2007,41,Chole Bhature
+499,Classic Cafe,Chennai,Nungambakkam,"Mediterranean, North Indian",Cafe,Moderate (₹500-1000),751,4.1,3654,Yes,No,Yes,Pubs and bars,UPI,2022,140,Dosa
+500,Grand Point,Surat,Vesu,"South Indian, Pizza",Casual Dining,Affordable (₹200-500),310,4.8,4942,Yes,No,Yes,Dine-out,All Modes,2007,150,Pizza
