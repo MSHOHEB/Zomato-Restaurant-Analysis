@@ -116,6 +116,22 @@ A complete **Zomato Restaurant Analysis** project using Python.
 
 ---
 
+## 📅 Daily Development Log
+
+| Day | Update |
+|-----|--------|
+| Day 1 | ✅ Created repo and README |
+| Day 2 | ✅ Uploaded zomato_restaurants.csv (500 rows) |
+| Day 3 | ✅ Uploaded zomato_analysis.py and requirements.txt |
+| Day 4 | ✅ Uploaded Chart 1 and Chart 2 |
+| Day 5 | ✅ Uploaded Chart 3 and Chart 4 |
+| Day 6 | ✅ Uploaded Chart 5 and Chart 6 |
+| Day 7 | ✅ Uploaded Chart 7 and Chart 8 |
+| Day 8 | ✅ README Daily Log updated |
+| Day 9 | ✅ Added key findings and documentation |
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Python 3.10+** — Core language
@@ -124,4 +140,6 @@ A complete **Zomato Restaurant Analysis** project using Python.
 - **Seaborn** — Statistical plots
 - **NumPy** — Numerical computing
 
+---
 
+*Made with ❤️ for Data Analytics Portfolio*
