@@ -52,34 +52,6 @@ A complete **Zomato Restaurant Analysis** project using Python.
 
 ---
 
-## 📸 Charts Preview
-
-### 1. Overview Dashboard
-![Overview](charts/01_overview_dashboard.png)
-
-### 2. City Analysis
-![City](charts/02_city_analysis.png)
-
-### 3. Cuisine Analysis
-![Cuisine](charts/03_cuisine_analysis.png)
-
-### 4. Rating Analysis
-![Rating](charts/04_rating_analysis.png)
-
-### 5. Price Analysis
-![Price](charts/05_price_analysis.png)
-
-### 6. Top Restaurants
-![Top](charts/06_top_restaurants.png)
-
-### 7. Dishes & Trends
-![Dishes](charts/07_dishes_trends.png)
-
-### 8. Correlation Heatmap
-![Heatmap](charts/08_correlation_heatmap.png)
-
----
-
 ## 🚀 How to Run
 
     git clone https://github.com/MSHOHEB/zomato-restaurant-analysis.git
